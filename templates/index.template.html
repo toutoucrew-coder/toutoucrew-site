@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{meta.title}}</title>
+  <meta name="description" content="{{meta.description}}">
+  <link rel="canonical" href="https://toutoucrew.fr/">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://toutoucrew.fr/">
+  <meta property="og:site_name" content="Toutou Crew">
+  <meta property="og:title" content="{{meta.title}}">
+  <meta property="og:description" content="{{meta.description}}">
+  <meta property="og:image" content="https://toutoucrew.fr/images/hero.jpg">
+  <meta property="og:image:width" content="1360">
+  <meta property="og:image:height" content="904">
+  <meta property="og:locale" content="fr_FR">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{meta.title}}">
+  <meta name="twitter:description" content="{{meta.description}}">
+  <meta name="twitter:image" content="https://toutoucrew.fr/images/hero.jpg">
+
+  <link rel="icon" type="image/svg+xml" href="images/logo.svg">
+
+  <!-- Police des titres : Pally Medium (Fontshare) -->
+  <link rel="preconnect" href="https://api.fontshare.com">
+  <link rel="stylesheet" href="https://api.fontshare.com/v2/css?f[]=pally@500&display=swap">
+
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- Données structurées -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Toutou Crew",
+    "description": "{{meta.jsonld_description}}",
+    "url": "https://toutoucrew.fr/",
+    "image": "https://toutoucrew.fr/images/hero.jpg",
+    "email": "contact@toutoucrew.fr",
+    "areaServed": {
+      "@type": "Place",
+      "name": "{{meta.jsonld_area_served}}"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Paris",
+      "addressCountry": "FR"
+    },
+    "sameAs": [
+      "https://www.instagram.com/toutoucrew"
+    ],
+    "makesOffer": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "{{meta.offer1_name}}",
+          "description": "{{meta.offer1_description}}"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "{{meta.offer2_name}}",
+          "description": "{{meta.offer2_description}}"
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+  <!-- ===================== HERO ===================== -->
+  <a href="#main-content" class="skip-link">{{skip_link}}</a>
+
+  <header class="hero" id="haut-de-page">
+    <div class="site-nav-bar">
+      <nav class="site-nav" aria-label="Navigation principale">
+        <a href="#haut-de-page" class="site-nav__logo">
+          <img src="images/logo.svg" alt="{{nav.logo_alt}}" width="146" height="146">
+        </a>
+
+        <ul class="site-nav__links" id="site-nav-links">
+          <li><a href="#concept">{{nav.link_concept}}</a></li>
+          <li><a href="#compagnon">{{nav.link_benefices}}</a></li>
+          <li><a href="#journee">{{nav.link_comment}}</a></li>
+          <li><a href="#tarifs">{{nav.link_tarifs}}</a></li>
+          <li><a href="#apropos">{{nav.link_quisuisje}}</a></li>
+        </ul>
+
+        <a href="#contact" class="btn btn--primary site-nav__cta">{{nav.cta}}</a>
+
+        <button type="button" class="site-nav__burger" aria-label="{{nav.burger_aria_label}}" aria-expanded="false" aria-controls="site-nav-links">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </nav>
+    </div>
+
+    <div class="hero__media">
+      <img src="images/hero.jpg" alt="{{hero.image_alt}}" class="hero__image" width="1360" height="904" loading="eager">
+      <h1 class="hero__title hero-intro hero-intro--up">{{hero.title}}</h1>
+      <p class="sr-only">{{hero.sr_only_text}}</p>
+      <img src="images/illuhero.png" alt="{{hero.sticker_alt}}" class="hero__sticker hero-intro hero-intro--pop">
+    </div>
+
+    <div class="hero__content">
+      <p class="hero__eyebrow hero-intro hero-intro--up">{{hero.eyebrow}}</p>
+      <p class="hero__text hero-intro hero-intro--up">{{hero.text}}</p>
+      <div class="button-row hero-intro hero-intro--up">
+        <a href="#etapes" class="btn btn--primary">{{hero.cta_primary}}</a>
+        <a href="#compagnon" class="btn btn--outline">{{hero.cta_secondary}}</a>
+      </div>
+    </div>
+  </header>
+
+  <main id="main-content">
+
+    <!-- ============= AVOIR UN CHIEN EN VILLE ============= -->
+    <section class="section section--ville" id="concept" aria-labelledby="titre-ville">
+      <div class="split split--illustration-left split--flat">
+        <div class="split__media">
+          <img src="images/chienville.png" alt="{{concept.illustration_alt}}" class="illustration illustration--ville">
+        </div>
+        <div class="split__text">
+          <h2 id="titre-ville">{{concept.title}}</h2>
+          <p>{{concept.text}}</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============= CE N'EST PAS JUSTE UNE PROMENADE ============= -->
+    <section class="section section--white" aria-labelledby="titre-promenade">
+      <div class="split split--illustration-right split--promenade">
+        <div class="split__text">
+          <h2 id="titre-promenade"><span class="text-promenade-accent">{{promenade.title_brand}}</span> <img src="images/tetechien.svg" alt="" aria-hidden="true" class="titre-icon"> <span class="text-promenade-dark">{{promenade.title_rest}}</span></h2>
+          <p>{{promenade.text1}}</p>
+          <p>{{promenade.text2}}</p>
+        </div>
+        <div class="split__media">
+          <img src="images/voiture.png" alt="{{promenade.illustration_alt}}" class="illustration illustration--promenade">
+        </div>
+      </div>
+    </section>
+
+    <!-- ============= CE QUE VOTRE COMPAGNON VA VIVRE ============= -->
+    <section class="section section--cream" id="compagnon" aria-labelledby="titre-vivre">
+      <div class="compagnon-card">
+        <div class="section__intro">
+          <div class="intro-text">
+            <h2 id="titre-vivre">{{compagnon.title}}</h2>
+            <p>{{compagnon.text}}</p>
+          </div>
+          <img src="images/Chiencouche.png" alt="{{compagnon.dog_image_alt}}" class="intro-dog-image">
+        </div>
+
+        <div class="card-grid">
+          <article class="card">
+            <img src="images/card-vie.jpg" alt="{{compagnon.card1_image_alt}}" class="card__image" loading="lazy" width="500" height="320">
+            <h3 class="card__title">{{compagnon.card1_title}}</h3>
+            <p class="card__text">{{compagnon.card1_text}}</p>
+          </article>
+
+          <article class="card">
+            <img src="images/card-meute.jpg" alt="{{compagnon.card2_image_alt}}" class="card__image" loading="lazy" width="500" height="320">
+            <h3 class="card__title">{{compagnon.card2_title}}</h3>
+            <p class="card__text">{{compagnon.card2_text}}</p>
+          </article>
+
+          <article class="card">
+            <img src="images/card-rappel.jpg" alt="{{compagnon.card3_image_alt}}" class="card__image" loading="lazy" width="500" height="320">
+            <h3 class="card__title">{{compagnon.card3_title}}</h3>
+            <p class="card__text">{{compagnon.card3_text}}</p>
+          </article>
+        </div>
+
+        <div class="section__cta">
+          <a href="#etapes" class="btn btn--primary">{{compagnon.cta}}</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============= UNE JOURNÉE AVEC LE TOUTOU CREW ============= -->
+    <section class="section section--white" id="journee" aria-labelledby="titre-journee">
+      <div class="journee-card">
+      <h2 id="titre-journee" class="section__title-center">{{journee.title_line1}}<br><span class="text-orange">{{journee.title_brand}} <img src="images/tetechien.svg" alt="" aria-hidden="true" class="titre-icon"></span></h2>
+
+      <div class="journee-layout">
+        <div class="timeline-photos">
+          <img src="images/sticker1.png" alt="{{journee.sticker_top_alt}}" class="timeline-sticker timeline-sticker--top">
+          <img src="images/journée1.png" alt="{{journee.photo_alt}}" class="timeline-photo timeline-photo--1">
+          <img src="images/journée2.png" alt="{{journee.photo_alt}}" class="timeline-photo timeline-photo--2">
+          <img src="images/journée3.png" alt="{{journee.photo_alt}}" class="timeline-photo timeline-photo--3">
+          <img src="images/sticker2.png" alt="{{journee.sticker_bottom_alt}}" class="timeline-sticker timeline-sticker--bottom">
+        </div>
+
+        <ol class="timeline">
+          <li class="timeline__item">
+            <div class="timeline__content">
+              <p class="timeline__time"><span class="time-pill">{{journee.step1_time_start}}</span> <span class="time-connector">à</span> <span class="time-pill">{{journee.step1_time_end}}</span></p>
+              <h3 class="timeline__title">{{journee.step1_title}}</h3>
+              <p>{{journee.step1_text}}</p>
+            </div>
+          </li>
+
+          <li class="timeline__item">
+            <div class="timeline__content">
+              <p class="timeline__time"><span class="time-pill">{{journee.step2_time_start}}</span> <span class="time-connector">à</span> <span class="time-pill">{{journee.step2_time_end}}</span></p>
+              <h3 class="timeline__title">{{journee.step2_title}}</h3>
+              <p>{{journee.step2_text}}</p>
+            </div>
+          </li>
+
+          <li class="timeline__item">
+            <div class="timeline__content">
+              <p class="timeline__time"><span class="time-pill">{{journee.step3_time_start}}</span> <span class="time-connector">à</span> <span class="time-pill">{{journee.step3_time_end}}</span></p>
+              <h3 class="timeline__title">{{journee.step3_title}}</h3>
+              <p>{{journee.step3_text}}</p>
+            </div>
+          </li>
+
+          <li class="timeline__item">
+            <div class="timeline__content">
+              <p class="timeline__time"><span class="time-pill">{{journee.step4_time_start}}</span> <span class="time-connector">à</span> <span class="time-pill">{{journee.step4_time_end}}</span></p>
+              <h3 class="timeline__title">{{journee.step4_title}}</h3>
+              <p>{{journee.step4_text}}</p>
+              <a href="#tarifs" class="btn btn--primary timeline__cta">{{journee.step4_cta}}</a>
+            </div>
+          </li>
+        </ol>
+      </div>
+      </div>
+    </section>
+
+    <!-- ============= REJOINDRE LE CREW / ETAPES ============= -->
+    <section class="section section--cream" id="etapes" aria-labelledby="titre-etapes">
+      <div class="etapes-card">
+      <div class="section__intro">
+        <h2 id="titre-etapes">{{etapes.title_start}} <span class="text-orange">{{etapes.title_brand}} <img src="images/tetechien.svg" alt="" aria-hidden="true" class="titre-icon"></span><br>{{etapes.title_end}}</h2>
+        <p>{{etapes.text}}</p>
+      </div>
+
+      <div class="steps">
+        <article class="step">
+          <div class="step__header">
+            <span class="step__number">1</span>
+            <div class="step__heading">
+              <h3>{{etapes.step1_title}}</h3>
+              <p class="step__meta"><strong>{{etapes.step1_duration}}</strong> &middot; {{etapes.step1_location}}</p>
+            </div>
+            <span class="badge badge--outline">{{etapes.step1_badge}}</span>
+          </div>
+          <p>{{etapes.step1_text}}</p>
+
+          <div class="step__grid step__grid--4">
+            <div class="step__point">
+              <img src="images/sociabilite.png" alt="" class="step__icon">
+              <p class="step__point-title">{{etapes.step1_point1_title}}</p>
+              <p>{{etapes.step1_point1_text}}</p>
+            </div>
+            <div class="step__point">
+              <img src="images/reactivite.png" alt="" class="step__icon">
+              <p class="step__point-title">{{etapes.step1_point2_title}}</p>
+              <p>{{etapes.step1_point2_text}}</p>
+            </div>
+            <div class="step__point">
+              <img src="images/emotions.png" alt="" class="step__icon">
+              <p class="step__point-title">{{etapes.step1_point3_title}}</p>
+              <p>{{etapes.step1_point3_text}}</p>
+            </div>
+            <div class="step__point">
+              <img src="images/monteevan.png" alt="" class="step__icon">
+              <p class="step__point-title">{{etapes.step1_point4_title}}</p>
+              <p>{{etapes.step1_point4_text}}</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="step">
+          <div class="step__header">
+            <span class="step__number">2</span>
+            <div class="step__heading">
+              <h3>{{etapes.step2_title}}</h3>
+              <p class="step__meta"><strong>{{etapes.step2_duration}}</strong> &middot; {{etapes.step2_location}}</p>
+            </div>
+            <span class="badge badge--filled">{{etapes.step2_badge}}</span>
+          </div>
+          <p>{{etapes.step2_text}}</p>
+
+          <div class="step__grid-row">
+            <div class="step__grid step__grid--2">
+              <div class="step__point">
+                <img src="images/compotementvan.png" alt="" class="step__icon">
+                <p class="step__point-title">{{etapes.step2_point1_title}}</p>
+                <p>{{etapes.step2_point1_text}}</p>
+              </div>
+              <div class="step__point">
+                <img src="images/meute.png" alt="" class="step__icon">
+                <p class="step__point-title">{{etapes.step2_point2_title}}</p>
+                <p>{{etapes.step2_point2_text}}</p>
+              </div>
+            </div>
+
+            <img src="images/baladeessai.png" alt="{{etapes.step2_image_alt}}" class="step__grid-image">
+          </div>
+        </article>
+      </div>
+
+      <div class="section__cta">
+        <a href="#contact" class="btn btn--primary">{{etapes.cta}}</a>
+      </div>
+      </div>
+    </section>
+
+    <!-- ============= TARIFS ============= -->
+    <section class="section section--white" id="tarifs" aria-labelledby="titre-tarifs">
+      <div class="tarifs-card">
+      <div class="section__intro">
+        <h2 id="titre-tarifs">{{tarifs.title}}</h2>
+        <p>{{tarifs.text}}</p>
+      </div>
+
+      <div class="pricing">
+        <div class="pricing__toggle" role="group" aria-label="{{tarifs.toggle_aria_label}}">
+          <button type="button" class="pricing__toggle-btn is-active" data-dogs="1" aria-pressed="true">
+            <img src="images/toggle1.png" alt="" class="pricing__toggle-icon">
+            <span class="pricing__toggle-label">{{tarifs.toggle1_label}}</span>
+          </button>
+          <button type="button" class="pricing__toggle-btn" data-dogs="2" aria-pressed="false">
+            <img src="images/toggle2.png" alt="" class="pricing__toggle-icon">
+            <span class="pricing__toggle-label">{{tarifs.toggle2_label}}</span>
+          </button>
+        </div>
+
+        <div class="pricing__panel">
+          <div class="pricing__left">
+            <div class="pricing__table-wrap">
+              <table class="pricing__table">
+                <caption class="sr-only">{{tarifs.table_caption}}</caption>
+                <thead>
+                  <tr>
+                    <th scope="col">{{tarifs.table_th_frequence}}</th>
+                    <th scope="col">{{tarifs.table_th_prix}}</th>
+                  </tr>
+                </thead>
+                <tbody id="pricing-body">
+                  <!-- rempli par js/script.js selon le nombre de chiens sélectionné -->
+                </tbody>
+              </table>
+            </div>
+
+            <p class="pricing__note">{{tarifs.note}}</p>
+
+            <div class="section__cta">
+              <a href="#contact" class="btn btn--primary">{{tarifs.cta}}</a>
+            </div>
+          </div>
+
+          <img src="images/chienseul.png" alt="{{tarifs.image_alt_1dog}}" id="pricing-image" class="pricing__image" loading="lazy">
+        </div>
+      </div>
+      </div>
+    </section>
+
+    <!-- ============= À PROPOS ============= -->
+    <section class="section section--cream" id="apropos" aria-labelledby="titre-apropos">
+      <div class="about">
+        <div class="about__text">
+          <h2 id="titre-apropos"><span class="text-promenade-accent">{{apropos.title_brand}}</span> <img src="images/tetechien.svg" alt="" aria-hidden="true" class="titre-icon"> {{apropos.title_rest}}</h2>
+          <p class="about__role">{{apropos.role}}</p>
+
+          <p>{{apropos.text1}}</p>
+
+          <p>{{apropos.text2}}</p>
+
+          <p>{{apropos.text3}}</p>
+
+          <p>{{apropos.text4}}</p>
+        </div>
+
+        <div class="about__media">
+          <div class="about__photos">
+            <img src="images/tetecam.png" alt="" class="about-sticker about-sticker--cam">
+            <img src="images/photocamille1.png" alt="{{apropos.photo1_alt}}" class="about-photo about-photo--1">
+            <img src="images/photocamille2.png" alt="{{apropos.photo2_alt}}" class="about-photo about-photo--2">
+            <img src="images/tetemaya.png" alt="" class="about-sticker about-sticker--maya">
+          </div>
+
+          <div class="certifications">
+            <h3>{{apropos.certifications_title}}</h3>
+            <ul>
+              <li><span class="certifications__icon" aria-hidden="true">📋</span> <span class="certifications__text">{{apropos.cert1_html}}</span></li>
+              <li><span class="certifications__icon" aria-hidden="true">🐾</span> <span class="certifications__text">{{apropos.cert2_html}}</span></li>
+              <li><span class="certifications__icon" aria-hidden="true">⛑️</span> <span class="certifications__text">{{apropos.cert3_html}}</span></li>
+            </ul>
+          </div>
+        </div>
+
+        <img src="images/camillebalade.png" alt="{{apropos.walk_image_alt}}" class="about__walk-image">
+      </div>
+    </section>
+
+    <!-- ============= CTA FINAL / CONTACT ============= -->
+    <section class="section section--white" id="contact" aria-labelledby="titre-contact">
+      <div class="final-cta">
+        <img src="images/ulane.png" alt="" class="final-cta__dog final-cta__dog--ulane">
+        <img src="images/merlin.png" alt="" class="final-cta__dog final-cta__dog--merlin">
+        <img src="images/simone.png" alt="" class="final-cta__dog final-cta__dog--simone">
+        <img src="images/nova.png" alt="" class="final-cta__dog final-cta__dog--nova">
+
+        <div class="final-cta__dog-top">
+          <img src="images/merlin.png" alt="">
+          <img src="images/simone.png" alt="">
+        </div>
+
+        <h2 id="titre-contact">{{contact.title_start}} <span class="text-orange">{{contact.title_brand}} <img src="images/tetechien.svg" alt="" aria-hidden="true" class="titre-icon"></span> {{contact.title_end}}</h2>
+        <p>{{contact.text}}</p>
+
+        <div class="button-row">
+          <a href="https://wa.me/33600000000" class="btn btn--primary" target="_blank" rel="noopener">{{contact.cta_whatsapp}}</a>
+          <a href="mailto:toutoucrew@gmail.com" class="btn btn--outline">{{contact.cta_email}}</a>
+        </div>
+
+        <p class="final-cta__zone">{{contact.zone}}</p>
+
+        <div class="final-cta__dog-row">
+          <img src="images/ulane.png" alt="">
+          <img src="images/nova.png" alt="">
+        </div>
+
+        <div class="final-cta__logo-frame">
+          <img src="images/logo.svg" alt="{{contact.logo_alt}}" class="final-cta__logo">
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ===================== FOOTER ===================== -->
+  <footer class="site-footer">
+    <div class="site-footer__row">
+      <p class="site-footer__instagram">{{footer.instagram_text}}<br class="site-footer__break"> <a href="https://www.instagram.com/toutoucrew" class="site-footer__instagram-link" target="_blank" rel="noopener">{{footer.instagram_link_text}}<svg class="site-footer__external-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17L17 7"></path><path d="M7 7h10v10"></path></svg></a></p>
+      <nav class="site-footer__legal" aria-label="Informations légales">
+        <a href="politique-confidentialite.html">{{footer.legal_privacy}}</a>
+        <span class="site-footer__legal-sep" aria-hidden="true">·</span>
+        <a href="cgv.html">{{footer.legal_cgv}}</a>
+      </nav>
+    </div>
+    <p class="site-footer__copyright">{{footer.copyright}}</p>
+  </footer>
+
+  <div class="cookie-banner" id="cookie-banner" role="dialog" aria-label="{{cookie_banner.aria_label}}" aria-hidden="true">
+    <p>{{cookie_banner.text}}</p>
+    <div class="cookie-banner__actions">
+      <button type="button" class="btn btn--outline" id="cookie-refuse">{{cookie_banner.refuse}}</button>
+      <button type="button" class="btn btn--primary" id="cookie-accept">{{cookie_banner.accept}}</button>
+    </div>
+  </div>
+
+  <script src="js/script.js?v=10"></script>
+</body>
+</html>
