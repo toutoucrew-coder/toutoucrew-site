@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """
-Génère index.html à partir de templates/index.template.html + content/<lang>.json
+Génère les pages HTML du site à partir de templates/*.template.html
++ content/<lang>.json
 
 Usage : python3 scripts/build.py [lang]
   lang par défaut : fr
 
 Pour mettre à jour un texte du site : modifier content/fr.json, puis relancer ce script.
-Ne jamais éditer index.html à la main, il est régénéré à chaque build.
+Ne jamais éditer index.html, cgv.html ou politique-confidentialite.html à la main,
+ils sont régénérés à chaque build.
 """
 
 import json
@@ -15,8 +17,14 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-TEMPLATE_PATH = ROOT / "templates" / "index.template.html"
-OUTPUT_PATH = ROOT / "index.html"
+TEMPLATES_DIR = ROOT / "templates"
+
+# (template, fichier de sortie)
+PAGES = [
+    ("index.template.html", "index.html"),
+    ("cgv.template.html", "cgv.html"),
+    ("politique-confidentialite.template.html", "politique-confidentialite.html"),
+]
 
 TOKEN_RE = re.compile(r"\{\{([a-zA-Z0-9_.]+)\}\}")
 
@@ -32,13 +40,10 @@ def get_nested(data, dotted_key):
     return str(value)
 
 
-def build(lang="fr"):
-    content_path = ROOT / "content" / f"{lang}.json"
-    if not content_path.exists():
-        sys.exit(f"Erreur : {content_path} introuvable")
-
-    content = json.loads(content_path.read_text(encoding="utf-8"))
-    template = TEMPLATE_PATH.read_text(encoding="utf-8")
+def build_page(template_name, output_name, content, content_label):
+    template_path = TEMPLATES_DIR / template_name
+    output_path = ROOT / output_name
+    template = template_path.read_text(encoding="utf-8")
 
     missing = []
 
@@ -54,12 +59,24 @@ def build(lang="fr"):
 
     if missing:
         sys.exit(
-            "Erreur : clé(s) manquante(s) dans "
-            f"{content_path.name} : {', '.join(sorted(set(missing)))}"
+            f"Erreur : clé(s) manquante(s) dans {content_label} pour {template_name} : "
+            f"{', '.join(sorted(set(missing)))}"
         )
 
-    OUTPUT_PATH.write_text(output, encoding="utf-8")
-    print(f"OK : {OUTPUT_PATH.relative_to(ROOT)} généré depuis {content_path.relative_to(ROOT)}")
+    output_path.write_text(output, encoding="utf-8")
+    print(f"OK : {output_name} généré depuis {content_label}")
+
+
+def build(lang="fr"):
+    content_path = ROOT / "content" / f"{lang}.json"
+    if not content_path.exists():
+        sys.exit(f"Erreur : {content_path} introuvable")
+
+    content = json.loads(content_path.read_text(encoding="utf-8"))
+    content_label = content_path.relative_to(ROOT)
+
+    for template_name, output_name in PAGES:
+        build_page(template_name, output_name, content, content_label)
 
 
 if __name__ == "__main__":

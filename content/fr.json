@@ -179,5 +179,98 @@
     "text": "Ce site utilise Google Analytics pour mesurer l'audience. Vous pouvez accepter ou refuser ce suivi. Voir notre <a href=\"politique-confidentialite.html\">politique de confidentialité</a>.",
     "refuse": "Refuser",
     "accept": "Accepter"
+  },
+
+  "legal": {
+    "back_link": "&larr; Retour au site",
+    "updated_label": "Dernière mise à jour : [À compléter : date de mise en ligne]"
+  },
+
+  "cgv": {
+    "meta_title": "Conditions générales de vente – Toutou Crew",
+    "meta_description": "Conditions générales de vente de Toutou Crew : prestations, tarifs, réservation, paiement et annulation.",
+    "h1": "Conditions générales de vente",
+    "disclaimer_html": "<strong>⚠️ Modèle à faire valider.</strong> Ce texte est un brouillon de départ basé sur les mentions habituellement requises pour une prestation de service en France. Il ne remplace pas une relecture par un professionnel avant mise en ligne définitive. Les passages entre crochets [ ] sont à compléter.",
+
+    "s1_title": "1. Objet",
+    "s1_text": "Les présentes conditions générales de vente régissent les prestations de balades collectives éducatives pour chiens proposées par Toutou Crew, dans le Bois de Vincennes, la Forêt de Bondy et leurs environs.",
+
+    "s2_title": "2. Identité du prestataire",
+    "s2_text_html": "[À compléter : Prénom NOM], micro-entrepreneur (auto-entrepreneur)<br>\n        Nom commercial : Toutou Crew<br>\n        SIRET : [À compléter]<br>\n        Adresse : [À compléter]<br>\n        Email : <a href=\"mailto:contact@toutoucrew.fr\">contact@toutoucrew.fr</a>",
+
+    "s3_title": "3. Description des prestations",
+    "s3_text_html": "Toutou Crew propose des balades collectives en meute, encadrées, dans des espaces naturels, avec prise en charge et retour du chien au point de rendez-vous convenu. Le détail des formules et tarifs est disponible sur la page <a href=\"index.html#tarifs\">Tarifs</a> du site.",
+
+    "s4_title": "4. Admission dans le Crew",
+    "s4_text": "Chaque nouveau chien doit passer une rencontre préalable et, le cas échéant, une balade d'essai, afin de vérifier sa compatibilité avec le fonctionnement en meute, avant toute inscription régulière.",
+
+    "s5_title": "5. Tarifs et paiement",
+    "s5_text": "Les tarifs en vigueur sont ceux affichés sur la page Tarifs du site au moment de la réservation. Le paiement s'effectue mensuellement, à l'avance, pour le forfait de balades choisi. [À compléter : moyen(s) de paiement acceptés — virement, carte, etc.]",
+
+    "s6_title": "6. Annulation et remboursement",
+    "s6_text": "[À compléter : conditions d'annulation par le client (délai de prévenance, balades reportables ou non), conditions d'annulation par le prestataire (météo, indisponibilité), modalités de remboursement le cas échéant.]",
+
+    "s7_title": "7. Responsabilité",
+    "s7_text": "Le prestataire s'engage à assurer la sécurité et le bien-être des chiens qui lui sont confiés pendant toute la durée de la prestation. [À compléter : référence à une assurance responsabilité civile professionnelle, le cas échéant.] Le client garantit que son chien est à jour de ses vaccins et ne présente pas de trouble du comportement non signalé.",
+
+    "s8_title": "8. Droit de rétractation",
+    "s8_text": "Conformément à l'article L221-28 du Code de la consommation, le droit de rétractation ne s'applique pas aux prestations de services pleinement exécutées avant la fin du délai de rétractation, avec l'accord du client. [À compléter selon vos modalités exactes de réservation.]",
+
+    "s9_title": "9. Médiation de la consommation",
+    "s9_text": "Conformément à l'article L616-1 du Code de la consommation, en cas de litige, le client peut recourir gratuitement au service de médiation suivant : [À compléter : nom et coordonnées du médiateur de la consommation].",
+
+    "s10_title": "10. Droit applicable",
+    "s10_text": "Les présentes conditions générales de vente sont soumises au droit français. Tout litige relève, à défaut de résolution amiable, des tribunaux compétents.",
+
+    "s11_title": "11. Contact",
+    "s11_text_html": "Pour toute question relative aux présentes CGV : <a href=\"mailto:contact@toutoucrew.fr\">contact@toutoucrew.fr</a>."
+  },
+
+  "politique": {
+    "meta_title": "Politique de confidentialité – Toutou Crew",
+    "meta_description": "Politique de confidentialité de Toutou Crew : données collectées, finalités, durée de conservation et droits RGPD.",
+    "h1": "Politique de confidentialité",
+    "disclaimer_html": "<strong>⚠️ Modèle à faire valider.</strong> Ce texte est un brouillon de départ basé sur les usages courants du RGPD. Il ne remplace pas une relecture par un professionnel (avocat, ou outils gratuits de la CNIL) avant mise en ligne définitive. Les passages entre crochets [ ] sont à compléter.",
+
+    "s1_title": "1. Qui est responsable de vos données ?",
+    "s1_text": "Le responsable du traitement des données est [À compléter : Prénom NOM], exerçant sous le statut de micro-entrepreneur (auto-entrepreneur) sous le nom commercial « Toutou Crew ».",
+    "s1_details_html": "SIRET : [À compléter]<br>\n        Adresse : [À compléter]<br>\n        Email de contact : <a href=\"mailto:contact@toutoucrew.fr\">contact@toutoucrew.fr</a>",
+
+    "s2_title": "2. Quelles données sont collectées ?",
+    "s2_intro": "Dans le cadre de la prise de contact et de la réservation de balades, les données suivantes peuvent être collectées :",
+    "s2_item1": "Nom, prénom",
+    "s2_item2": "Adresse email",
+    "s2_item3": "Numéro de téléphone (notamment via WhatsApp)",
+    "s2_item4": "Adresse de récupération / dépose du chien",
+    "s2_item5": "Informations relatives à votre chien (race, comportement, besoins particuliers, informations vétérinaires utiles à sa sécurité)",
+    "s2_item6": "Informations de paiement (traitées par le prestataire de paiement utilisé, non stockées sur ce site)",
+
+    "s3_title": "3. Pourquoi ces données sont-elles collectées ?",
+    "s3_intro": "Ces données sont utilisées uniquement pour :",
+    "s3_item1": "organiser et assurer les balades (prise de contact, planification, sécurité de votre chien) ;",
+    "s3_item2": "gérer la facturation et le suivi client ;",
+    "s3_item3": "répondre à vos questions et demandes.",
+    "s3_outro": "Ces données ne sont ni vendues, ni cédées à des tiers à des fins commerciales.",
+
+    "s4_title": "4. Base légale du traitement",
+    "s4_text": "Le traitement de vos données repose sur l'exécution du contrat (organisation de la prestation de balade) et, le cas échéant, sur votre consentement (par exemple pour l'envoi de photos de la balade sur les réseaux sociaux).",
+
+    "s5_title": "5. Qui a accès à vos données ?",
+    "s5_text": "Vos données sont accessibles uniquement par [À compléter : Prénom NOM] dans le cadre de l'activité de Toutou Crew. Elles peuvent transiter par des outils tiers utilisés pour la communication (WhatsApp, messagerie email) ou la facturation, qui agissent alors comme sous-traitants techniques.",
+
+    "s6_title": "6. Combien de temps vos données sont-elles conservées ?",
+    "s6_text": "Vos données sont conservées pendant la durée de la relation commerciale, puis archivées pendant la durée légale de conservation des documents comptables et commerciaux (généralement 5 à 10 ans selon la nature du document), avant suppression.",
+
+    "s7_title": "7. Cookies et suivi",
+    "s7_text1": "Ce site utilise Google Analytics pour mesurer la fréquentation (pages visitées, provenance des visiteurs). Ce suivi ne se déclenche que si vous donnez votre accord via le bandeau de consentement affiché lors de votre première visite. Vous pouvez changer d'avis à tout moment en effaçant les données de navigation de votre navigateur pour ce site, ce qui réaffichera le bandeau.",
+    "s7_text2_html": "Google Analytics dépose des cookies uniquement après acceptation. Aucune donnée n'est utilisée à des fins publicitaires. Pour en savoir plus sur le traitement réalisé par Google : <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener\">politique de confidentialité de Google</a>.",
+    "s7_text3": "Ce site n'utilise aucun autre cookie de suivi publicitaire.",
+
+    "s8_title": "8. Vos droits",
+    "s8_text1_html": "Conformément au RGPD, vous disposez d'un droit d'accès, de rectification, d'effacement, de limitation, d'opposition et de portabilité de vos données. Pour exercer ces droits, contactez-nous à <a href=\"mailto:contact@toutoucrew.fr\">contact@toutoucrew.fr</a>.",
+    "s8_text2_html": "Vous disposez également du droit d'introduire une réclamation auprès de la CNIL (Commission Nationale de l'Informatique et des Libertés) : <a href=\"https://www.cnil.fr\" target=\"_blank\" rel=\"noopener\">www.cnil.fr</a>.",
+
+    "s9_title": "9. Contact",
+    "s9_text_html": "Pour toute question relative à cette politique de confidentialité : <a href=\"mailto:contact@toutoucrew.fr\">contact@toutoucrew.fr</a>."
   }
 }
