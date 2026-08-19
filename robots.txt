@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.toutoucrew.fr/sitemap.xml
+Sitemap: https://toutoucrew.fr/sitemap.xml
