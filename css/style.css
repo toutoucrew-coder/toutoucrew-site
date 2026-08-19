@@ -246,7 +246,7 @@ p {
   margin: 0 auto;
   background-color: #e8dfce;
   border-radius: var(--radius-lg);
-  padding: 3.5rem 1rem;
+  padding: 3.5rem 3rem;
 }
 
 .tarifs-card {
@@ -1900,6 +1900,14 @@ p {
 @media (max-width: 640px) {
   .hero__sticker {
     display: none;
+  }
+
+  .etapes-card {
+    padding: 3.5rem 1rem;
+  }
+
+  .compagnon-card {
+    padding: 3.5rem 1rem;
   }
 
   .pricing__toggle {
