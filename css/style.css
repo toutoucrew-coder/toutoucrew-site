@@ -246,7 +246,7 @@ p {
   margin: 0 auto;
   background-color: #e8dfce;
   border-radius: var(--radius-lg);
-  padding: 3.5rem 3rem;
+  padding: 3.5rem 1rem;
 }
 
 .tarifs-card {
