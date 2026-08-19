@@ -84,11 +84,11 @@ document.addEventListener("DOMContentLoaded", () => {
       { frequence: "5 balades / semaine", detail: "", prix: "625€" },
     ],
     2: [
-      { frequence: "1 balade / semaine", detail: "(~4 par mois)", prix: "220€" },
-      { frequence: "2 balades / semaine", detail: "(~8 par mois)", prix: "420€" },
-      { frequence: "3 balades / semaine", detail: "(~12 par mois)", prix: "610€" },
-      { frequence: "4 balades / semaine", detail: "", prix: "800€" },
-      { frequence: "5 balades / semaine", detail: "", prix: "980€" },
+      { frequence: "1 balade / semaine", detail: "(~4 par mois)", prix: "250€" },
+      { frequence: "2 balades / semaine", detail: "(~8 par mois)", prix: "485€" },
+      { frequence: "3 balades / semaine", detail: "(~12 par mois)", prix: "700€" },
+      { frequence: "4 balades / semaine", detail: "", prix: "920€" },
+      { frequence: "5 balades / semaine", detail: "", prix: "1125€" },
     ],
   };
 
