@@ -925,6 +925,14 @@ p {
   margin: 0;
 }
 
+.step__requirements {
+  background-color: var(--color-cream-light);
+  border-radius: var(--radius-sm);
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0 0;
+  font-size: 0.95rem;
+}
+
 .badge {
   display: inline-block;
   padding: 0.35em 1em;
