@@ -1969,7 +1969,8 @@ p {
   }
 
   .step {
-    padding: 1.75rem 1.5rem;
+    padding: 1.25rem 1rem;
+    border-width: 8px;
   }
 
   .timeline-photos {
