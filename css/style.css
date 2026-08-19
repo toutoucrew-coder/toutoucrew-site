@@ -1910,6 +1910,14 @@ p {
     padding: 3.5rem 1rem;
   }
 
+  .tarifs-card {
+    padding: 3.5rem 1rem;
+  }
+
+  .about {
+    padding: 3.5rem 1rem;
+  }
+
   .pricing__toggle {
     border-radius: 16px;
   }
