@@ -62,13 +62,27 @@ document.addEventListener("DOMContentLoaded", () => {
     { el: document.querySelector(".site-nav-bar"), delay: 800 },
   ];
 
+  // Animation de construction du header du blog au chargement
+  const blogIntroEls = [
+    { el: document.querySelector(".blog-page__illustration"), delay: 0 },
+    { el: document.querySelector(".blog-page__eyebrow"), delay: 200 },
+    { el: document.querySelector(".blog-page__header h1"), delay: 350 },
+    { el: document.querySelector(".blog-page__intro-text"), delay: 500 },
+    { el: document.querySelector(".blog-featured"), delay: 700 },
+  ];
+
   const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   if (prefersReducedMotion) {
     heroIntroEls.forEach(({ el }) => el && el.classList.add("is-visible"));
+    blogIntroEls.forEach(({ el }) => el && el.classList.add("is-visible"));
   } else {
     requestAnimationFrame(() => {
       heroIntroEls.forEach(({ el, delay }) => {
+        if (!el) return;
+        setTimeout(() => el.classList.add("is-visible"), delay);
+      });
+      blogIntroEls.forEach(({ el, delay }) => {
         if (!el) return;
         setTimeout(() => el.classList.add("is-visible"), delay);
       });
@@ -197,13 +211,17 @@ document.addEventListener("DOMContentLoaded", () => {
     ".about__text",
     ".certifications",
     ".final-cta",
+    ".blog-grid > .blog-card",
+    ".article-page__meta",
+    ".article-page__title",
+    ".article-page__body",
   ];
 
   document.querySelectorAll(blockSelectors.join(", ")).forEach((el) => {
     el.classList.add("reveal");
   });
 
-  const imageIconClasses = ["titre-icon", "pricing__toggle-icon", "step__icon"];
+  const imageIconClasses = ["titre-icon", "pricing__toggle-icon", "step__icon", "blog-page__illustration"];
 
   document.querySelectorAll("main img, footer img").forEach((img) => {
     if (imageIconClasses.some((cls) => img.classList.contains(cls))) return;
@@ -225,7 +243,26 @@ document.addEventListener("DOMContentLoaded", () => {
       { threshold: 0.12, rootMargin: "0px 0px -60px 0px" }
     );
 
-    revealables.forEach((el) => revealObserver.observe(el));
+    // Les éléments déjà visibles à l'écran au chargement (avant tout scroll)
+    // sont révélés tout de suite, en cascade, plutôt que d'attendre un scroll
+    // qui ne viendra peut-être jamais (ça laissait un blanc en haut de page).
+    // Le décalage de départ laisse d'abord finir l'animation d'en-tête du blog
+    // (illustration/eyebrow/titre/description/carte à la une, jusqu'à 700ms).
+    let visibleIndex = 0;
+    const alreadyVisibleBaseDelay = document.querySelector(".blog-featured") ? 750 : 0;
+    revealables.forEach((el) => {
+      const rect = el.getBoundingClientRect();
+      const alreadyVisible = rect.top < window.innerHeight && rect.bottom > 0;
+      if (alreadyVisible) {
+        const delay = alreadyVisibleBaseDelay + visibleIndex * 100;
+        visibleIndex += 1;
+        requestAnimationFrame(() => {
+          setTimeout(() => el.classList.add("is-visible"), delay);
+        });
+      } else {
+        revealObserver.observe(el);
+      }
+    });
   } else {
     revealables.forEach((el) => el.classList.add("is-visible"));
   }

@@ -5,4 +5,39 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
+  <url>
+    <loc>https://toutoucrew.fr/blog.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toutoucrew.fr/blog/adopter-un-chien-roumain-ce-que-personne-ne-vous-dit-avant.html</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://toutoucrew.fr/blog/comment-se-passe-une-balade-en-meute-avec-toutou-crew-le-guide-complet.html</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://toutoucrew.fr/blog/combien-coute-un-promeneur-de-chien-a-paris.html</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://toutoucrew.fr/blog/chien-qui-tire-en-laisse-comment-l-eduquer-sans-le-forcer.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://toutoucrew.fr/blog/mon-chien-s-ennuie-en-appartement-a-paris-les-solutions-qui-marchent-vraiment.html</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
