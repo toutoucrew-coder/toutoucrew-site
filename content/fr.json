@@ -44,7 +44,7 @@
     "title_brand": "Toutou Crew",
     "title_rest": "ce n'est pas juste une promenade.",
     "text1": "Chaque matin, le van Toutou Crew fait sa tournée dans le 19e et ses environs. Les chiens montent un par un, et c'est le départ. Direction le Bois de Vincennes ou la Forêt de Bondy, selon le jour.",
-    "text2": "Deux heures en liberté, en meute, dans de vrais espaces naturels. Pas un service de garde. Une vraie expérience, pensée pour que votre chien rentre dépensé, heureux et chaque semaine, un peu meilleur qu'avant.",
+    "text2": "Deux heures en liberté, en meute, dans de vrais espaces naturels, encadrées par un promeneur de chien professionnel. Pas un service de garde. Une vraie expérience, pensée pour que votre chien rentre dépensé, heureux et chaque semaine, un peu meilleur qu'avant.",
     "illustration_alt": "Illustration du Van Toutou Crew avec les chiens à bord prêt à partir en forêt"
   },
 
@@ -57,7 +57,7 @@
     "card1_text": "Courir, renifler, creuser, nager, explorer, jouer avec ses potes en liberté, dans de vrais espaces naturels. Bois de Vincennes, Forêt de Bondy. Loin du bitume, loin des parkings, loin du bruit. Votre chien rentre épuisé dans le bon sens du terme : museau plein de bonnes odeurs, pattes fatiguées, tête apaisée. C'est ça, une vraie dépense.",
     "card2_image_alt": "Meute de chiens marchant en groupe sur un chemin forestier",
     "card2_title": "Une meute rigoureusement sélectionnée",
-    "card2_text": "Ici, on ne mélange pas n'importe qui. Les balades Toutou Crew sont accessibles uniquement aux chiens éduqués, sans troubles du comportement. Chaque nouveau membre passe un test d'entrée en meute pour garantir des groupes équilibrés et sécurisés.",
+    "card2_text": "Ici, on ne mélange pas n'importe qui. Les balades Toutou Crew sont accessibles uniquement aux chiens éduqués, sans troubles du comportement. Chaque nouveau membre passe un test d'entrée en meute pour garantir une bonne socialisation et des groupes équilibrés, sécurisés.",
     "card3_image_alt": "Chien courant en liberté dans une clairière",
     "card3_title": "Un rappel solide, pour une liberté méritée",
     "card3_text": "Un chien qui rappelle bien, c'est un chien qui peut vivre libre. À chaque balade, on travaille en douceur le rappel à distance et les interactions en meute, en éducation positive, dans un contexte naturel où votre chien ne voit même pas qu'il apprend. Quand il progresse, il gagne en liberté. C'est aussi simple que ça.",
@@ -93,7 +93,7 @@
     "title_start": "Rejoindre le",
     "title_brand": "Crew",
     "title_end": "ça ne s'improvise pas… et c'est fait exprès.",
-    "text": "Pour que chaque sortie soit sûre et agréable pour votre chien comme pour les autres, chaque nouveau membre passe par deux étapes avant d'intégrer le groupe. Pas de paperasse, pas de complications : juste le temps de se rencontrer et de vérifier que la balade vous convient.",
+    "text": "Pour que chaque balade collective soit sûre et agréable pour votre chien comme pour les autres, chaque nouveau membre passe par deux étapes avant d'intégrer le groupe. Pas de paperasse, pas de complications : juste le temps de se rencontrer et de vérifier que la balade vous convient.",
 
     "step1_title": "La rencontre au bois.",
     "step1_duration": "Durée : 15 – 20 min",
@@ -145,13 +145,13 @@
     "role": "Camille, promeneur &amp; éducateur canin",
     "text1": "Pendant 13 ans, j'ai travaillé comme designer produit dans le conseil. J'aidais des entreprises à créer des sites, des applications mobiles, des expériences numériques. J'aimais ce métier et le contact humain. Jusqu'au moment où ce métier a commencé à changer, et où je me suis rendu compte que la version qu'il devenait n'était plus celle que j'avais choisie.",
     "text2": "En juin 2025, après 5 ans de réflexion, j'ai adopté Maya. Un petit chien croisé berger/teckel sauvée de la vie errante en Roumanie. À son arrivée, elle avait peur de tout. Les humains, les autres chiens, les bruits de la ville. J'ai passé des mois à apprendre à la lire, à la rassurer, à lui construire une confiance qu'elle n'avait jamais eu. En éducation positive, à son rythme, en milieu urbain. Elle me l'a rendu mille fois. C'est elle qui m'a convaincu que ma prochaine vie serait plus proche du vivant que d'un écran. Toutou Crew, c'est la suite logique de cette histoire.",
-    "text3": "Je suis basé à Laumière, dans le 19e. Je connais le quartier, ses chiens, ses contraintes et je sais exactement ce qui manque aux dog parents parisiens : un endroit où leur chien peut vraiment se défouler, en sécurité, avec des congénères bien dans leur tête.",
+    "text3": "En tant que promeneur de chien à Paris, je suis basé à Laumière, dans le 19e. Je connais le quartier, ses chiens, ses contraintes et je sais exactement ce qui manque aux dog parents parisiens : un endroit où leur chien peut vraiment se défouler, en sécurité, avec des congénères bien dans leur tête.",
     "text4": "Je travaille en groupes réduits, avec des chiens soigneusement sélectionnés. Pas de volume, pas de compromis. Chaque chien que j'emmène est un chien dont je me sens pleinement responsable, comme je l'ai été pour Maya dès le premier jour.",
     "photo1_alt": "Camille, fondateur de Toutou Crew, en balade avec son chien roumain Maya",
     "photo2_alt": "Camille en balade à vélo avec son chien Maya dans son sac à dos",
     "certifications_title": "Formations &amp; certifications",
     "cert1_html": "<strong>ACACED</strong> – Attestation de Connaissances pour les Animaux de Compagnie d'Espèces Domestiques.",
-    "cert2_html": "<strong>Éducateur canin</strong> – comportement et éducation positive.",
+    "cert2_html": "<strong>Éducateur canin à Paris</strong> – comportement et éducation positive.",
     "cert3_html": "<strong>Premiers secours canins</strong> – savoir intervenir en cas d'urgence.",
     "walk_image_alt": "Camille en balade avec plusieurs chiens en laisse"
   },
