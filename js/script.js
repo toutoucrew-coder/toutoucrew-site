@@ -230,18 +230,25 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const revealables = document.querySelectorAll(".reveal, .reveal-img");
 
-  if ("IntersectionObserver" in window && revealables.length) {
-    const revealObserver = new IntersectionObserver(
-      (entries, obs) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            entry.target.classList.add("is-visible");
-            obs.unobserve(entry.target);
-          }
-        });
-      },
-      { threshold: 0.12, rootMargin: "0px 0px -60px 0px" }
-    );
+  if (revealables.length) {
+    // Système volontairement simple (calcul manuel de position plutôt qu'un
+    // IntersectionObserver avec seuil/marge négative) : plus prévisible d'un
+    // appareil à l'autre, et impossible de laisser un élément bloqué invisible.
+    const pending = new Set(revealables);
+
+    const revealIfVisible = () => {
+      pending.forEach((el) => {
+        const rect = el.getBoundingClientRect();
+        if (rect.top < window.innerHeight - 60 && rect.bottom > 0) {
+          el.classList.add("is-visible");
+          pending.delete(el);
+        }
+      });
+      if (pending.size === 0) {
+        window.removeEventListener("scroll", revealIfVisible);
+        window.removeEventListener("resize", revealIfVisible);
+      }
+    };
 
     // Les éléments déjà visibles à l'écran au chargement (avant tout scroll)
     // sont révélés tout de suite, en cascade, plutôt que d'attendre un scroll
@@ -256,14 +263,24 @@ document.addEventListener("DOMContentLoaded", () => {
       if (alreadyVisible) {
         const delay = alreadyVisibleBaseDelay + visibleIndex * 100;
         visibleIndex += 1;
+        pending.delete(el);
         requestAnimationFrame(() => {
           setTimeout(() => el.classList.add("is-visible"), delay);
         });
-      } else {
-        revealObserver.observe(el);
       }
     });
-  } else {
-    revealables.forEach((el) => el.classList.add("is-visible"));
+
+    if (pending.size) {
+      window.addEventListener("scroll", revealIfVisible, { passive: true });
+      window.addEventListener("resize", revealIfVisible);
+      // Filet de sécurité : si un élément n'a toujours pas été révélé après
+      // quelques secondes (orientation, appareil qui ne déclenche pas le
+      // scroll comme attendu...), on l'affiche quand même plutôt que de le
+      // laisser invisible pour de bon.
+      setTimeout(() => {
+        pending.forEach((el) => el.classList.add("is-visible"));
+        pending.clear();
+      }, 4000);
+    }
   }
 });
