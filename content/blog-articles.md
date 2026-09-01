@@ -1010,3 +1010,67 @@ La meute mélange volontairement les gabarits, avec une composition pensée au c
 
 Si vous vous demandez si votre chien, petit ou grand, a vraiment les besoins d'exercice que vous imaginez, n'hésitez pas à m'en parler.
 
+%%% NOUVEL ARTICLE %%%
+Titre: Combien de temps faut-il pour qu'un chien adopté reprenne confiance ?
+Date: 2027-07-05
+Tag: Chiens de Roumanie
+Description: Des repères réalistes, sans survendre : combien de temps prend vraiment la reconstruction de la confiance chez un chien adopté, jour après jour, mois après mois.
+
+C'est la question qu'on me pose le plus souvent après une adoption, et je n'ai jamais donné la même réponse deux fois. Il n'existe pas de délai universel, mais il existe des repères réalistes, sans survendre un rythme qui n'existe pas.
+
+## Les tout premiers jours : la décompression
+
+Un cadre souvent cité chez les associations de sauvetage donne une idée utile, même s'il ne s'applique jamais exactement pareil d'un chien à l'autre : environ trois jours pour commencer à décompresser du transport et du changement brutal d'environnement. Pendant cette phase, un chien peut sembler éteint, prostré, ou au contraire hypervigilant. Ce n'est ni de la tristesse ni un mauvais pronostic, c'est un système nerveux qui encaisse un choc.
+
+## Les premières semaines : apprendre la routine
+
+Après quelques semaines, généralement autour de trois, un chien adopté commence à comprendre la structure de sa nouvelle vie : les horaires, les lieux, les visages familiers. C'est aussi le moment où sa vraie personnalité commence à transparaître, parfois différente de ce qu'on avait vu les premiers jours, en bien comme en plus difficile.
+
+## Les premiers mois : la vraie confiance commence à s'installer
+
+Autour de trois mois, beaucoup de chiens adoptés montrent une amélioration nette et stable de leur confiance générale. Mais ce n'est presque jamais terminé à ce stade, seulement bien engagé. Les progrès continuent souvent bien après, par paliers plutôt que de façon linéaire, avec parfois des reculs ponctuels sans raison apparente évidente.
+
+## Ce qui peut prendre bien plus longtemps
+
+Certaines peurs spécifiques, liées à un vécu précis, peuvent mettre bien plus d'un an à s'atténuer, voire ne jamais disparaître complètement. Ce n'est pas un échec du travail effectué, c'est simplement la réalité de certains chiens. Mieux vaut le savoir dès le départ que se sentir découragé face à un progrès qui n'est "que" partiel après plusieurs mois.
+
+## Le repère que je garde en tête : Maya
+
+Ma chienne, adoptée de Roumanie, a mis environ six mois avant de se promener sereinement dans les rues du 19e à Paris. Sa peur des autres chiens inconnus, elle, était encore bien présente après un an, et reste aujourd'hui une prudence plutôt qu'une peur, sans avoir totalement disparu. C'est exactement ce que je veux dire par des repères réalistes : des progrès réels, presque jamais une ligne d'arrivée nette.
+
+## Ce qui aide à avancer, sans brusquer
+
+En éducation positive, le principe reste le même à chaque étape : laisser le chien avancer à son rythme plutôt qu'au vôtre, célébrer chaque petit progrès plutôt que de viser un résultat final, et ne jamais forcer une situation pour "accélérer les choses". C'est souvent ce qui prend le plus de temps à accepter pour un maître impatient de voir son chien heureux, bien plus que ce qui prend du temps pour le chien lui même.
+
+Si vous avez adopté un chien récemment et que vous vous demandez où il en est dans ce processus, n'hésitez pas à m'en parler.
+
+%%% NOUVEL ARTICLE %%%
+Titre: Coup de chaleur chez le chien : les signes qui doivent alerter en balade
+Date: 2027-07-19
+Tag: Sécurité
+Description: Un coup de chaleur peut s'installer en quelques minutes. Les signes qui doivent alerter, qui est le plus à risque, et les gestes à faire immédiatement.
+
+Un coup de chaleur peut s'installer en quelques minutes à peine, bien plus vite que la plupart des maîtres ne l'imaginent. Voici les signes à repérer immédiatement en balade, et ce qu'il faut faire dans l'instant.
+
+## Pourquoi ça va plus vite qu'on ne le pense
+
+Contrairement à nous, un chien ne transpire pas pour évacuer la chaleur, ou très peu, seulement par les coussinets. Le halètement reste son principal moyen de réguler sa température, un mécanisme bien moins efficace que la transpiration humaine, surtout en cas d'effort physique en même temps. Un chien qui court ou marche activement pendant les heures chaudes peut basculer en surchauffe dangereuse en quelques minutes, souvent bien avant que le maître ne réalise que quelque chose ne va pas.
+
+## Les signes qui doivent alerter
+
+Un halètement excessif et bruyant, bien au delà de ce qu'on observe d'habitude, une salive qui devient épaisse et collante, des gencives ou la langue qui virent au rouge très vif, ou au contraire pâles ou bleutées dans les cas graves. Le chien peut aussi sembler faible, désorienté, tituber en marchant, vomir, ou dans les cas les plus sérieux, s'effondrer complètement. Chacun de ces signes, pris isolément, mérite déjà une réaction immédiate.
+
+## Qui est le plus à risque
+
+Les races brachycéphales, au museau court comme le Bouledogue ou le Carlin, respirent déjà avec plus de difficulté en temps normal, ce qui les rend particulièrement vulnérables. Les chiens âgés, en surpoids, ou au pelage sombre et épais encaissent aussi la chaleur plus difficilement. Faire de l'exercice pendant les heures les plus chaudes de la journée reste le facteur de risque le plus évitable de tous.
+
+## Les gestes à faire immédiatement
+
+Mettre le chien à l'ombre sans attendre, lui proposer de l'eau fraîche mais jamais glacée, et mouiller son corps avec de l'eau tempérée, en insistant sur le ventre, les pattes et les oreilles, des zones où la chaleur s'évacue plus facilement. Ne jamais utiliser de l'eau glacée ou de la glace directement, un refroidissement trop brutal peut provoquer un choc et aggraver la situation. Même si le chien semble reprendre du poil de la bête après ces premiers gestes, direction le vétérinaire sans attendre : un coup de chaleur peut causer des dommages internes qui n'apparaissent que plus tard.
+
+## Ce qu'on applique chez Toutou Crew
+
+En été, les balades en meute sont programmées tôt le matin, avant que la chaleur ne monte, avec de l'eau toujours disponible et une attention constante portée aux signes d'inconfort de chaque chien. C'est un réflexe simple, en éducation positive comme dans la vigilance, qui évite bien des situations dangereuses pour les maîtres à Paris comme ailleurs.
+
+Si vous avez un doute sur la tolérance à la chaleur de votre chien, n'hésitez pas à m'en parler.
+
