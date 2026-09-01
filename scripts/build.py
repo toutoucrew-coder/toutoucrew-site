@@ -52,6 +52,7 @@ TAG_COLORS = {
     "Vie pratique": "teal",
     "Toutou Crew": "tan",
     "Chiens de Roumanie": "rose",
+    "Sécurité": "green",
 }
 
 ACCENTS = str.maketrans(

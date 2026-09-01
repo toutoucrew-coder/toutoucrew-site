@@ -2229,6 +2229,11 @@ p {
   color: #b5495f;
 }
 
+.blog-card__tag--green {
+  background-color: #e2e8d5;
+  color: #5f7a4a;
+}
+
 .blog-card__title {
   font-family: var(--font-heading);
   font-weight: 500;
