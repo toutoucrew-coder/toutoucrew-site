@@ -1,0 +1,42 @@
+name: Publier les articles du blog
+
+# Relance le build du site chaque matin. Comme scripts/build.py n'inclut
+# que les articles de content/blog.json dont la date est passée, un article
+# programmé pour aujourd'hui devient visible tout seul, sans action manuelle.
+# "workflow_dispatch" permet aussi de le lancer à la main depuis l'onglet
+# Actions du dépôt GitHub, pour tester ou forcer une republication.
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # tous les jours à 6h00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Générer le site (articles dont la date est passée uniquement)
+        run: python3 scripts/build.py fr
+
+      - name: Publier si le site a changé
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "toutoucrew-bot"
+            git config user.email "actions@github.com"
+            git add index.html cgv.html politique-confidentialite.html blog.html blog/ sitemap.xml
+            git commit -m "Publication automatique du blog ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "Rien de nouveau à publier aujourd'hui."
+          fi
