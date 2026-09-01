@@ -980,3 +980,33 @@ Je suis certifié ACACED, formé en éducation canine chez EDUCHIEN, et formé a
 
 Si vous avez une question sur ces certifications ou sur ma formation, n'hésitez pas à m'en parler directement.
 
+%%% NOUVEL ARTICLE %%%
+Titre: Petit chien vs grand chien : les besoins d'exercice sont-ils différents ?
+Date: 2027-06-21
+Tag: Bien-être
+Description: La taille ne détermine pas le besoin d'exercice d'un chien. Ce qui compte vraiment, les vraies différences liées au gabarit, et comment adapter les balades.
+
+Un Jack Russell de trois kilos peut avoir bien plus besoin de se dépenser qu'un Saint-Bernard de cinquante. La taille ne dit presque rien des vrais besoins d'exercice d'un chien, et ce préjugé mérite d'être clarifié une bonne fois pour toutes.
+
+## Le préjugé et pourquoi il est faux
+
+On imagine souvent qu'un petit chien se contente d'un tour de pâté de maisons pendant qu'un grand chien a besoin de courir des heures. Dans les faits, certaines petites races comme le Jack Russell, le Fox Terrier ou le Cairn Terrier comptent parmi les chiens les plus énergiques qui existent, sélectionnés historiquement pour la chasse et l'endurance. À l'inverse, certaines races géantes comme le Saint-Bernard ou le Terre-Neuve ont un tempérament naturellement calme, avec des besoins d'exercice modérés une fois adultes.
+
+## Ce qui détermine vraiment le besoin d'exercice
+
+C'est la race, sa fonction d'origine, et le tempérament individuel du chien qui comptent, pas le gabarit. Un chien sélectionné pour le travail, quelle que soit sa taille, aura presque toujours besoin de plus de stimulation qu'un chien sélectionné avant tout pour la compagnie. J'en parle plus en détail dans un article dédié aux races actives en ville.
+
+## Les vraies différences liées à la taille
+
+La taille joue quand même un rôle, mais pas sur la quantité de dépense nécessaire. Un petit chien perd sa chaleur corporelle plus vite et supporte moins bien le froid, alors qu'un chien de grande taille surchauffe plus facilement en été à cause de sa masse. Un chiot de grande race a des articulations et des cartilages de croissance particulièrement fragiles, l'excès d'exercice, surtout les sauts et les descentes d'escalier répétées, peut causer de vrais problèmes articulaires durables. Enfin, à allure égale, un petit chien doit multiplier ses foulées pour couvrir la même distance qu'un grand chien, ce qui change concrètement le rythme d'une balade partagée.
+
+## Comment adapter concrètement
+
+Pour un petit chien très énergique, mieux vaut miser sur l'intensité et la stimulation mentale plutôt que sur la seule durée. Pour un chiot de grande race, la prudence prime avant tout sur la quantité : des sorties fréquentes mais courtes, sans forcer sur les sauts, valent mieux qu'une longue sortie unique. Dans les deux cas, en éducation positive, on observe le chien plutôt qu'on ne suit une règle générale basée uniquement sur sa taille.
+
+## Ce qu'on fait chez Toutou Crew
+
+La meute mélange volontairement les gabarits, avec une composition pensée au cas par cas plutôt qu'un format unique appliqué à tous. Un petit chien très vif et un grand chien plus tranquille peuvent tout à fait cohabiter dans une même balade en meute à Paris, à condition que le groupe soit composé avec attention.
+
+Si vous vous demandez si votre chien, petit ou grand, a vraiment les besoins d'exercice que vous imaginez, n'hésitez pas à m'en parler.
+
