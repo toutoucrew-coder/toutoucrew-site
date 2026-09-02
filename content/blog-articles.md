@@ -80,7 +80,7 @@ Et je le vois à chaque fois, presque comme une preuve en direct : les chiens qu
 
 Si le vôtre rentre encore aussi speed qu'il est parti, la première rencontre au bois est offerte, sans engagement, juste pour voir, ensemble, ce que ça change.
 
-
+Camille, promeneur de chien et éducateur canin certifié ACACED à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Chien qui tire en laisse : comment l'éduquer sans le forcer
 Date: 2026-08-13
@@ -123,7 +123,7 @@ C'est exactement ce qu'un promeneur canin professionnel retravaille en balade en
 
 Si votre chien vous traîne encore à chaque sortie, la première rencontre au bois est offerte, sans engagement, pour voir ensemble où il en est.
 
-
+Camille, dog walker et éducateur canin dans le 19e, certifié ACACED.
 %%% NOUVEL ARTICLE %%%
 Titre: Combien coûte un promeneur de chien à Paris ?
 Date: 2026-08-17
@@ -168,7 +168,7 @@ Un promeneur de chien à Paris, ce n'est pas une dépense qu'on choisit uniqueme
 
 Si vous voulez voir exactement ce que ça donne pour votre chien, la première rencontre au bois est offerte, sans engagement.
 
-
+Camille, éducateur canin certifié ACACED, promeneur de chien à Paris et à Pantin.
 %%% NOUVEL ARTICLE %%%
 Titre: Comment se passe une balade en meute avec Toutou Crew ? Le guide complet
 Date: 2026-08-20
@@ -207,7 +207,7 @@ Au-delà du rapport photo, ce que beaucoup de maîtres apprécient le plus, c'es
 
 Si d'autres questions vous trottent dans la tête, n'hésitez pas à me contacter, je serai ravi d'y répondre directement.
 
-
+Camille, promeneur canin certifié ACACED à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Adopter un chien roumain : ce que personne ne vous dit avant
 Date: 2026-08-24
@@ -248,7 +248,7 @@ C'est exactement ce qui m'a donné envie de fonder Toutou Crew : offrir à d'aut
 
 Si vous avez adopté ou envisagez d'adopter un chien roumain et que vous ne savez pas trop par où commencer, n'hésitez pas à me contacter, j'en parlerai avec plaisir.
 
-
+Camille, éducateur canin et dog walker certifié ACACED, à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Que faire de son chien quand on travaille toute la journée ?
 Date: 2026-09-07
@@ -295,7 +295,7 @@ Avant de choisir, la bonne question n'est pas qu'est ce qui est le moins cher ou
 
 Si vous voulez voir ce que ça donnerait pour votre chien, la première rencontre au bois est offerte, sans engagement.
 
-
+Camille, promeneur de chien certifié ACACED, éducateur canin dans le 19e.
 %%% NOUVEL ARTICLE %%%
 Titre: Mon chien est réactif face aux autres chiens : que faire ?
 Date: 2026-09-21
@@ -310,7 +310,7 @@ La réactivité, c'est une réaction émotionnelle disproportionnée face à un 
 
 ## D'où ça vient, la plupart du temps
 
-Plusieurs origines reviennent souvent. Un manque de socialisation pendant la période sensible du chiot, entre 8 et 16 semaines, laisse parfois des séquelles qui ressortent des années plus tard. Une mauvaise expérience passée, même une seule, peut suffire à créer une association négative durable. Et beaucoup de chiens développent ce qu'on appelle une frustration de laisse : ils voudraient aller saluer l'autre chien, la laisse les en empêche, et cette frustration ressort sous forme d'aboiements ou de tirage brusque.
+Plusieurs origines reviennent souvent. Un manque de socialisation à Paris pendant la période sensible du chiot, entre 8 et 16 semaines, laisse parfois des séquelles qui ressortent des années plus tard. Une mauvaise expérience passée, même une seule, peut suffire à créer une association négative durable. Et beaucoup de chiens développent ce qu'on appelle une frustration de laisse : ils voudraient aller saluer l'autre chien, la laisse les en empêche, et cette frustration ressort sous forme d'aboiements ou de tirage brusque.
 
 ## Les signes qui annoncent la réaction, avant qu'elle n'éclate
 
@@ -330,11 +330,11 @@ C'est un travail de patience, et ça se fait très mal en présentant le chien �
 
 Je préfère être honnête plutôt que de promettre un miracle : beaucoup de chiens réactifs progressent énormément avec ce travail, certains au point de ne presque plus réagir. D'autres gardent une forme de méfiance envers les chiens inconnus, même après des mois de progrès. Ce n'est pas un échec, c'est juste que chaque chien a son propre point d'arrivée, et l'objectif n'est pas la perfection mais une vie plus sereine, pour lui comme pour vous, à Paris comme ailleurs.
 
-Un chien réactif n'intègre jamais directement la meute, pour la sécurité de tout le groupe. Mais en tant qu'éducateur canin, c'est justement le travail que je peux faire avec vous en amont, pas pour cocher une case, mais pour que vos sorties redeviennent simples, pour vous comme pour lui. Rejoindre la meute un jour reste possible pour certains chiens une fois ce travail engagé, mais ce n'est jamais une garantie ni l'objectif de départ.
+Un chien réactif n'intègre jamais directement la meute, pour la sécurité de tout le groupe. Mais en tant qu'éducateur canin à Paris, c'est justement le travail que je peux faire avec vous en amont, pas pour cocher une case, mais pour que vos sorties redeviennent simples, pour vous comme pour lui. Rejoindre la meute un jour reste possible pour certains chiens une fois ce travail engagé, mais ce n'est jamais une garantie ni l'objectif de départ.
 
 Si votre chien est réactif face à ses congénères, n'hésitez pas à me contacter pour qu'on en parle ensemble.
 
-
+Camille, dog walker certifié ACACED à Paris et à Pantin.
 %%% NOUVEL ARTICLE %%%
 Titre: Pourquoi mon chien est toujours plein d'énergie même après une balade ?
 Date: 2026-10-05
@@ -365,7 +365,7 @@ C'est ce qu'on constate chaque jour chez Toutou Crew, au Bois de Vincennes ou en
 
 Si votre chien rentre encore aussi speed qu'il est parti, la première rencontre au bois est offerte, sans engagement, pour voir ce que ça change.
 
-
+Camille, éducateur canin et promeneur canin certifié ACACED à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Chien destructeur à la maison : les vraies causes
 Date: 2026-10-19
@@ -380,7 +380,7 @@ Un chien ne fait pas le lien entre une punition et quelque chose qu'il a fait un
 
 ## L'anxiété de séparation, souvent mal identifiée
 
-C'est l'une des causes les plus fréquentes, et l'une des plus mal comprises. Un chien anxieux à la séparation détruit presque exclusivement quand il est seul, souvent près des portes ou des fenêtres, parfois accompagné d'aboiements, de gémissements ou de bave excessive. Ce n'est pas de la bêtise ni de la vengeance, c'est une vraie détresse émotionnelle face à votre absence. La solution ne passe jamais par plus de fermeté, mais par un travail progressif de désensibilisation à l'absence, souvent avec l'aide d'un éducateur canin.
+C'est l'une des causes les plus fréquentes, et l'une des plus mal comprises. Un chien anxieux à la séparation détruit presque exclusivement quand il est seul, souvent près des portes ou des fenêtres, parfois accompagné d'aboiements, de gémissements ou de bave excessive. Ce n'est pas de la bêtise ni de la vengeance, c'est une vraie détresse émotionnelle face à votre absence. La solution ne passe jamais par plus de fermeté, mais par un travail progressif de désensibilisation à l'absence, souvent avec l'aide d'un éducateur canin dans le 19e ou ailleurs à Paris.
 
 ## L'ennui et le manque de dépense
 
@@ -400,7 +400,7 @@ Pour un chien qui détruit par ennui ou par excès d'énergie, une vraie balade 
 
 Si vous n'êtes pas sûr de la cause chez votre chien, n'hésitez pas à m'en parler directement, c'est souvent plus simple à démêler qu'on ne le pense de l'extérieur.
 
-
+Camille, promeneur de chien certifié ACACED à Paris et dans le 19e.
 %%% NOUVEL ARTICLE %%%
 Titre: Où lâcher son chien en liberté sans laisse près de Paris ?
 Date: 2026-11-02
@@ -429,9 +429,9 @@ Ce n'est pas juste une question de contournement des règles. C'est surtout une 
 
 Si vous cherchez un vrai endroit où votre chien peut se défouler sans laisse, en toute sécurité, la première rencontre au bois est offerte, sans engagement.
 
-
+Camille, éducateur canin et dog walker certifié ACACED à Pantin et à Paris.
 %%% NOUVEL ARTICLE %%%
-Titre: Socialisation canine : comment bien socialiser un chien adulte
+Titre: Socialisation canine : comment bien socialiser un chien adulte à Paris
 Date: 2026-11-16
 Tag: Bien-être
 Description: Socialiser un chien adulte, ce n'est jamais trop tard. La bonne méthode, étape par étape, pour l'aider à mieux vivre avec ses congénères.
@@ -456,11 +456,11 @@ Un chien qui a grandi isolé, ou qui a vécu une mauvaise expérience marquante,
 
 C'est exactement ce qui rend une balade en meute particulièrement efficace pour ce genre de travail. Contrairement à un parc canin, le groupe n'est jamais laissé au hasard : chaque chien est connu, observé, et la composition tient compte du profil de chacun. Un chien adulte en cours de socialisation peut y avancer progressivement, entouré de chiens stables plutôt que livré à une rencontre imprévisible, tout en bénéficiant d'une vraie éducation positive tout au long du processus.
 
-À Paris, où les occasions de rencontres calmes et bien encadrées restent rares, ce cadre change souvent plus de choses qu'on ne l'imagine avant de l'essayer.
+Pour la socialisation d'un chien à Paris, où les occasions de rencontres calmes et bien encadrées restent rares, ce cadre change souvent plus de choses qu'on ne l'imagine avant de l'essayer.
 
 Si votre chien adulte a besoin d'être resocialisé en douceur, n'hésitez pas à me contacter, la première rencontre au bois est offerte, sans engagement.
 
-
+Camille, promeneur de chien et éducateur canin certifié ACACED à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Mon chien a peur des bruits de la ville : comment l'aider à s'habituer
 Date: 2026-11-30
@@ -493,7 +493,7 @@ Chose qu'on ne soupçonne pas forcément : passer plusieurs heures par semaine l
 
 Si votre chien a du mal avec les bruits de Paris, n'hésitez pas à m'en parler, on peut avancer ensemble sur ce sujet, à son rythme.
 
-
+Camille, dog walker et éducateur canin dans le 19e, certifié ACACED.
 %%% NOUVEL ARTICLE %%%
 Titre: Éducation positive vs éducation traditionnelle : quelles différences ?
 Date: 2026-12-07
@@ -528,7 +528,7 @@ C'est exactement le socle sur lequel repose chaque balade en meute chez Toutou C
 
 Si vous voulez comprendre comment ça se traduit concrètement pour votre chien, n'hésitez pas à me contacter, j'en parle avec plaisir.
 
-
+Camille, éducateur canin certifié ACACED, promeneur de chien à Paris et à Pantin.
 %%% NOUVEL ARTICLE %%%
 Titre: Chiot ou chien adopté : comment bien l'intégrer dans une meute de balade
 Date: 2026-12-14
@@ -539,7 +539,7 @@ La première balade en meute d'un chien, qu'il ait deux mois ou qu'il vienne d'a
 
 ## Pourquoi on ne saute jamais cette étape
 
-Une meute qui fonctionne bien, ce n'est pas un groupe de chiens réunis au hasard. C'est un équilibre construit chien après chien, où chacun a déjà trouvé sa place. Introduire un nouveau venu sans précaution, même un chien parfaitement sociable, peut déstabiliser cet équilibre et créer un stress inutile, pour lui comme pour les autres. La socialisation, ça se construit en douceur, pas en jetant un chien dans le grand bain en espérant que ça se passe bien.
+Une meute qui fonctionne bien, ce n'est pas un groupe de chiens réunis au hasard. C'est un équilibre construit chien après chien, où chacun a déjà trouvé sa place. Introduire un nouveau venu sans précaution, même un chien parfaitement sociable, peut déstabiliser cet équilibre et créer un stress inutile, pour lui comme pour les autres. La socialisation d'un chien à Paris, ça se construit en douceur, pas en jetant un chien dans le grand bain en espérant que ça se passe bien.
 
 ## Le cas du chiot : une fenêtre à ne pas gâcher
 
@@ -565,7 +565,7 @@ Un chiot bien intégré à cette étape grandit en général avec une aisance na
 
 Si vous accueillez un chiot ou un chien adopté et que vous vous demandez comment bien l'intégrer à une vie sociale canine, n'hésitez pas à m'en parler, la première rencontre au bois est offerte, sans engagement.
 
-
+Camille, promeneur canin certifié ACACED à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Le rappel : comment l'apprendre à son chien en éducation positive
 Date: 2026-12-21
@@ -600,6 +600,7 @@ Certains chiens répondent bien en quelques semaines, d'autres ont besoin de plu
 
 Si le rappel de votre chien n'est pas encore fiable, n'hésitez pas à m'en parler. C'est exactement le genre de travail qu'on peut construire ensemble, à Paris, avant d'envisager de vraies sorties en liberté.
 
+Camille, éducateur canin et dog walker certifié ACACED, à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: 5 signes que votre chien manque d'activité physique
 Date: 2027-01-11
@@ -636,6 +637,7 @@ C'est exactement ce qu'on travaille chaque jour chez Toutou Crew, en balade en m
 
 Si ça vous parle, n'hésitez pas à m'en parler, la première rencontre au bois est offerte, sans engagement.
 
+Camille, promeneur de chien certifié ACACED, éducateur canin dans le 19e.
 %%% NOUVEL ARTICLE %%%
 Titre: Chien anxieux en ville : comment l'aider à se sentir en sécurité
 Date: 2027-01-25
@@ -668,6 +670,7 @@ Un chien qui vit sous tension permanente en milieu urbain a besoin de vraies pau
 
 Si votre chien semble sur le qui-vive dès qu'il met une patte dehors à Paris, n'hésitez pas à m'en parler, on peut avancer ensemble à son rythme.
 
+Camille, dog walker certifié ACACED à Paris et à Pantin.
 %%% NOUVEL ARTICLE %%%
 Titre: Bois de Vincennes avec son chien : le guide complet
 Date: 2027-02-08
@@ -698,6 +701,7 @@ C'est l'un des deux terrains principaux des balades en meute, avec la Forêt de 
 
 Si vous voulez découvrir le Bois de Vincennes avec votre chien sans vous poser toutes ces questions vous même, la première rencontre au bois est offerte, sans engagement.
 
+Camille, éducateur canin et promeneur canin certifié ACACED à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Forêt de Bondy avec son chien : tout savoir avant d'y aller
 Date: 2027-02-22
@@ -728,6 +732,7 @@ C'est l'un des deux grands terrains des balades en meute, en alternance avec le 
 
 Si vous voulez faire découvrir un vrai bois à votre chien sans vous soucier de l'organisation, la première rencontre au bois est offerte, sans engagement.
 
+Camille, promeneur de chien certifié ACACED à Paris et dans le 19e.
 %%% NOUVEL ARTICLE %%%
 Titre: Chenilles processionnaires et chiens : le danger du printemps expliqué
 Date: 2027-02-15
@@ -762,6 +767,7 @@ Chaque printemps, on adapte les parcours en balade en meute au Bois de Vincennes
 
 Si vous avez un doute sur une zone à risque près de chez vous à Paris, n'hésitez pas à m'en parler.
 
+Camille, éducateur canin et dog walker certifié ACACED à Pantin et à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Comment choisir un promeneur de chien fiable à Paris ?
 Date: 2027-03-08
@@ -772,7 +778,7 @@ Confier son chien à quelqu'un plusieurs fois par semaine, parfois pendant des a
 
 ## Les certifications, un minimum à vérifier
 
-Demandez toujours si vous avez affaire à un promeneur de chien certifié ACACED, l'attestation obligatoire en France pour s'occuper professionnellement d'animaux de compagnie. C'est une base légale, pas un détail. Au delà de ça, une formation spécifique en éducation canine ou en comportement fait une vraie différence dans la qualité du suivi, tout comme une formation aux premiers secours canins, utile en cas d'incident pendant une sortie.
+Demandez toujours si vous avez affaire à un promeneur de chien certifié ACACED à Paris, l'attestation obligatoire en France pour s'occuper professionnellement d'animaux de compagnie. C'est une base légale, pas un détail. Au delà de ça, une formation spécifique en éducation canine ou en comportement fait une vraie différence dans la qualité du suivi, tout comme une formation aux premiers secours canins, utile en cas d'incident pendant une sortie.
 
 ## La question de l'assurance
 
@@ -796,6 +802,7 @@ Je suis certifié ACACED, formé en éducation canine et en premiers secours can
 
 Si vous cherchez un promeneur de chien à Paris, dans le 19e ou à Pantin, et que vous voulez voir comment ça se passe avant de vous engager, la première rencontre au bois est offerte, sans engagement.
 
+Camille, promeneur de chien et éducateur canin certifié ACACED à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Pourquoi la laisse est parfois obligatoire en forêt au printemps
 Date: 2027-03-22
@@ -820,6 +827,7 @@ Pendant cette période, généralement au printemps, la laisse obligatoire en fo
 
 On adapte simplement les parcours et le format des sorties selon la période et les zones concernées, sans jamais chercher à contourner la règle. Ça ne veut pas dire une balade moins riche pour autant : c'est même souvent l'occasion de retravailler la marche en laisse détendue et le rappel en éducation positive, dans un cadre différent, avant de retrouver la pleine liberté une fois la période passée. Respecter ce genre de règle, c'est aussi une question de cohérence : on ne peut pas prôner l'éducation positive et le respect du chien d'un côté, et ignorer la faune sauvage de l'autre.
 
+Camille, dog walker et éducateur canin dans le 19e, certifié ACACED.
 %%% NOUVEL ARTICLE %%%
 Titre: Calendrier des dangers saisonniers pour votre chien en forêt
 Date: 2027-04-05
@@ -854,6 +862,7 @@ Chaque saison a ses propres réflexes en balade en meute, que ce soit sur le cho
 
 Si vous avez une question sur un danger saisonnier près de chez vous, n'hésitez pas à m'en parler.
 
+Camille, éducateur canin certifié ACACED, promeneur de chien à Paris et à Pantin.
 %%% NOUVEL ARTICLE %%%
 Titre: Chien qui aboie sur les autres chiens : comprendre et corriger
 Date: 2027-04-19
@@ -884,6 +893,7 @@ Identifier la bonne cause avant d'agir, c'est exactement le travail qu'on fait e
 
 Si votre chien aboie sur les autres chiens en balade à Paris et que vous ne savez pas trop pourquoi, n'hésitez pas à m'en parler.
 
+Camille, promeneur canin certifié ACACED à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Épillets : le petit danger d'été qui empoisonne la vie des chiens
 Date: 2027-05-10
@@ -918,6 +928,7 @@ En été, chaque chien est vérifié après la balade en meute, entre les pattes
 
 Si votre chien revient d'une balade en herbes hautes avec un comportement inhabituel, n'hésitez pas à m'en parler.
 
+Camille, éducateur canin et dog walker certifié ACACED, à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Chien de race active : comment répondre à ses besoins en ville
 Date: 2027-05-24
@@ -948,6 +959,7 @@ Deux heures de vraie liberté en balade en meute, au Bois de Vincennes ou en For
 
 Si votre chien de race active semble ne jamais être vraiment satisfait à Paris, n'hésitez pas à m'en parler, on peut réfléchir ensemble à ce qui lui manque vraiment.
 
+Camille, promeneur de chien certifié ACACED, éducateur canin dans le 19e.
 %%% NOUVEL ARTICLE %%%
 Titre: ACACED, éducateur canin, premiers secours : ce que signifient ces certifications
 Date: 2027-06-07
@@ -962,7 +974,7 @@ L'Attestation de Connaissances pour les Animaux de Compagnie d'Espèces Domestiq
 
 ## Éducateur canin : une formation, pas un diplôme unique
 
-Contrairement à l'ACACED, "éducateur canin" ne correspond pas à un titre légalement encadré unique en France, mais plutôt à une spécialisation acquise via différentes formations, publiques ou privées, centrées sur le comportement et l'éducation du chien. Ce qui compte réellement, ce n'est pas seulement le fait d'avoir suivi une formation, mais la méthode qu'elle enseigne : éducation positive, fondée sur le renforcement, ou méthodes plus traditionnelles fondées sur la correction. Un professionnel formé en éducation canine devrait pouvoir vous expliquer clairement sa méthode, pas seulement citer un intitulé de formation.
+Contrairement à l'ACACED, "éducateur canin" ne correspond pas à un titre légalement encadré unique en France, mais plutôt à une spécialisation acquise via différentes formations, publiques ou privées, centrées sur le comportement et l'éducation du chien. Un éducateur canin à Paris, dans le 19e comme ailleurs, peut donc avoir des parcours de formation très différents d'un professionnel à l'autre. Ce qui compte réellement, ce n'est pas seulement le fait d'avoir suivi une formation, mais la méthode qu'elle enseigne : éducation positive, fondée sur le renforcement, ou méthodes plus traditionnelles fondées sur la correction. Un professionnel formé en éducation canine devrait pouvoir vous expliquer clairement sa méthode, pas seulement citer un intitulé de formation.
 
 Je me suis formé chez EDUCHIEN, un organisme basé dans les Yvelines fondé par Alexis Bonnarang, éducateur canin comportementaliste diplômé en éthologie canine de l'École Nationale Vétérinaire de Maisons-Alfort. La formation combine une centaine d'heures entre cours théoriques (éthologie, développement comportemental, communication canine) et mise en pratique concrète sur le terrain, plutôt qu'un simple apprentissage sur le papier.
 
@@ -980,6 +992,7 @@ Je suis certifié ACACED, formé en éducation canine chez EDUCHIEN, et formé a
 
 Si vous avez une question sur ces certifications ou sur ma formation, n'hésitez pas à m'en parler directement.
 
+Camille, dog walker certifié ACACED à Paris et à Pantin.
 %%% NOUVEL ARTICLE %%%
 Titre: Petit chien vs grand chien : les besoins d'exercice sont-ils différents ?
 Date: 2027-06-21
@@ -1010,6 +1023,7 @@ La meute mélange volontairement les gabarits, avec une composition pensée au c
 
 Si vous vous demandez si votre chien, petit ou grand, a vraiment les besoins d'exercice que vous imaginez, n'hésitez pas à m'en parler.
 
+Camille, éducateur canin et promeneur canin certifié ACACED à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Combien de temps faut-il pour qu'un chien adopté reprenne confiance ?
 Date: 2027-07-05
@@ -1044,6 +1058,7 @@ En éducation positive, le principe reste le même à chaque étape : laisser le
 
 Si vous avez adopté un chien récemment et que vous vous demandez où il en est dans ce processus, n'hésitez pas à m'en parler.
 
+Camille, promeneur de chien certifié ACACED à Paris et dans le 19e.
 %%% NOUVEL ARTICLE %%%
 Titre: Coup de chaleur chez le chien : les signes qui doivent alerter en balade
 Date: 2027-07-19
@@ -1074,6 +1089,7 @@ En été, les balades en meute sont programmées tôt le matin, avant que la cha
 
 Si vous avez un doute sur la tolérance à la chaleur de votre chien, n'hésitez pas à m'en parler.
 
+Camille, éducateur canin et dog walker certifié ACACED à Pantin et à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Chien senior : comment adapter ses balades avec l'âge
 Date: 2027-08-02
@@ -1104,6 +1120,7 @@ Un chien senior peut tout à fait rejoindre une balade en meute, avec un rythme 
 
 Si votre chien senior semble avoir besoin d'un rythme différent en balade à Paris, n'hésitez pas à m'en parler.
 
+Camille, promeneur de chien et éducateur canin certifié ACACED à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Chien et rentrée : gérer le retour au rythme après l'été
 Date: 2027-08-30
@@ -1134,6 +1151,7 @@ Une balade en meute régulière, aux mêmes horaires chaque semaine, redonne rap
 
 Si votre chien semble perdu depuis la rentrée, n'hésitez pas à m'en parler.
 
+Camille, dog walker et éducateur canin dans le 19e, certifié ACACED.
 %%% NOUVEL ARTICLE %%%
 Titre: Chien qui a peur du van ou de la voiture : le désensibiliser en douceur
 Date: 2027-09-06
@@ -1164,3 +1182,4 @@ Quand un chien montre une appréhension du transport lors de son intégration, u
 
 Si votre chien a peur de monter en voiture et que vous ne savez pas par où commencer, n'hésitez pas à m'en parler, à Paris ou ailleurs.
 
+Camille, éducateur canin certifié ACACED, promeneur de chien à Paris et à Pantin.
