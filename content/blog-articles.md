@@ -80,7 +80,7 @@ Et je le vois à chaque fois, presque comme une preuve en direct : les chiens qu
 
 Si le vôtre rentre encore aussi speed qu'il est parti, la première rencontre au bois est offerte, sans engagement, juste pour voir, ensemble, ce que ça change.
 
-Camille, promeneur de chien et éducateur canin certifié ACACED, secteur Laumière à Paris.
+Camille, promeneur de chien et éducateur canin certifié ACACED. Promenade chien secteur Laumière, à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Chien qui tire en laisse : comment l'éduquer sans le forcer
 Date: 2026-08-13
@@ -123,7 +123,7 @@ C'est exactement ce qu'un promeneur canin professionnel retravaille en balade en
 
 Si votre chien vous traîne encore à chaque sortie, la première rencontre au bois est offerte, sans engagement, pour voir ensemble où il en est.
 
-Camille, dog walker et éducateur canin certifié ACACED, autour des Buttes-Chaumont, dans le 19e.
+Camille, dog walker et éducateur canin certifié ACACED. Promenade chien autour des Buttes-Chaumont, dans le 19e.
 %%% NOUVEL ARTICLE %%%
 Titre: Combien coûte un promeneur de chien à Paris ?
 Date: 2026-08-17
@@ -168,7 +168,7 @@ Un promeneur de chien à Paris, ce n'est pas une dépense qu'on choisit uniqueme
 
 Si vous voulez voir exactement ce que ça donne pour votre chien, la première rencontre au bois est offerte, sans engagement.
 
-Camille, éducateur canin certifié ACACED, promeneur de chien le long du canal de l'Ourcq et à Pantin.
+Camille, éducateur canin certifié ACACED. Promenade chien le long du canal de l'Ourcq et à Pantin.
 %%% NOUVEL ARTICLE %%%
 Titre: Comment se passe une balade en meute avec Toutou Crew ? Le guide complet
 Date: 2026-08-20
@@ -207,7 +207,7 @@ Au-delà du rapport photo, ce que beaucoup de maîtres apprécient le plus, c'es
 
 Si d'autres questions vous trottent dans la tête, n'hésitez pas à me contacter, je serai ravi d'y répondre directement.
 
-Camille, promeneur canin certifié ACACED, secteur Jaurès et Stalingrad à Paris.
+Camille, promeneur canin certifié ACACED. Promenade chien secteur Jaurès et Stalingrad, à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Adopter un chien roumain : ce que personne ne vous dit avant
 Date: 2026-08-24
@@ -460,7 +460,7 @@ Pour la socialisation d'un chien à Paris, où les occasions de rencontres calme
 
 Si votre chien adulte a besoin d'être resocialisé en douceur, n'hésitez pas à me contacter, la première rencontre au bois est offerte, sans engagement.
 
-Camille, promeneur de chien et éducateur canin certifié ACACED, secteur Laumière à Paris.
+Camille, promeneur de chien et éducateur canin certifié ACACED. Promenade chien secteur Laumière, à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Mon chien a peur des bruits de la ville : comment l'aider à s'habituer
 Date: 2026-11-30
@@ -493,7 +493,7 @@ Chose qu'on ne soupçonne pas forcément : passer plusieurs heures par semaine l
 
 Si votre chien a du mal avec les bruits de Paris, n'hésitez pas à m'en parler, on peut avancer ensemble sur ce sujet, à son rythme.
 
-Camille, dog walker et éducateur canin certifié ACACED, autour des Buttes-Chaumont, dans le 19e.
+Camille, dog walker et éducateur canin certifié ACACED. Promenade chien autour des Buttes-Chaumont, dans le 19e.
 %%% NOUVEL ARTICLE %%%
 Titre: Éducation positive vs éducation traditionnelle : quelles différences ?
 Date: 2026-12-07
@@ -528,7 +528,7 @@ C'est exactement le socle sur lequel repose chaque balade en meute chez Toutou C
 
 Si vous voulez comprendre comment ça se traduit concrètement pour votre chien, n'hésitez pas à me contacter, j'en parle avec plaisir.
 
-Camille, éducateur canin certifié ACACED, promeneur de chien le long du canal de l'Ourcq et à Pantin.
+Camille, éducateur canin certifié ACACED. Promenade chien le long du canal de l'Ourcq et à Pantin.
 %%% NOUVEL ARTICLE %%%
 Titre: Chiot ou chien adopté : comment bien l'intégrer dans une meute de balade
 Date: 2026-12-14
@@ -565,7 +565,7 @@ Un chiot bien intégré à cette étape grandit en général avec une aisance na
 
 Si vous accueillez un chiot ou un chien adopté et que vous vous demandez comment bien l'intégrer à une vie sociale canine, n'hésitez pas à m'en parler, la première rencontre au bois est offerte, sans engagement.
 
-Camille, promeneur canin certifié ACACED, secteur Jaurès et Stalingrad à Paris.
+Camille, promeneur canin certifié ACACED. Promenade chien secteur Jaurès et Stalingrad, à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Le rappel : comment l'apprendre à son chien en éducation positive
 Date: 2026-12-21
@@ -802,7 +802,7 @@ Je suis certifié ACACED, formé en éducation canine et en premiers secours can
 
 Si vous cherchez un promeneur de chien à Paris, dans le 19e ou à Pantin, et que vous voulez voir comment ça se passe avant de vous engager, la première rencontre au bois est offerte, sans engagement.
 
-Camille, promeneur de chien et éducateur canin certifié ACACED, secteur Laumière à Paris.
+Camille, promeneur de chien et éducateur canin certifié ACACED. Promenade chien secteur Laumière, à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Pourquoi la laisse est parfois obligatoire en forêt au printemps
 Date: 2027-03-22
@@ -827,7 +827,7 @@ Pendant cette période, généralement au printemps, la laisse obligatoire en fo
 
 On adapte simplement les parcours et le format des sorties selon la période et les zones concernées, sans jamais chercher à contourner la règle. Ça ne veut pas dire une balade moins riche pour autant : c'est même souvent l'occasion de retravailler la marche en laisse détendue et le rappel en éducation positive, dans un cadre différent, avant de retrouver la pleine liberté une fois la période passée. Respecter ce genre de règle, c'est aussi une question de cohérence : on ne peut pas prôner l'éducation positive et le respect du chien d'un côté, et ignorer la faune sauvage de l'autre.
 
-Camille, dog walker et éducateur canin certifié ACACED, autour des Buttes-Chaumont, dans le 19e.
+Camille, dog walker et éducateur canin certifié ACACED. Promenade chien autour des Buttes-Chaumont, dans le 19e.
 %%% NOUVEL ARTICLE %%%
 Titre: Calendrier des dangers saisonniers pour votre chien en forêt
 Date: 2027-04-05
@@ -862,7 +862,7 @@ Chaque saison a ses propres réflexes en balade en meute, que ce soit sur le cho
 
 Si vous avez une question sur un danger saisonnier près de chez vous, n'hésitez pas à m'en parler.
 
-Camille, éducateur canin certifié ACACED, promeneur de chien le long du canal de l'Ourcq et à Pantin.
+Camille, éducateur canin certifié ACACED. Promenade chien le long du canal de l'Ourcq et à Pantin.
 %%% NOUVEL ARTICLE %%%
 Titre: Chien qui aboie sur les autres chiens : comprendre et corriger
 Date: 2027-04-19
@@ -893,7 +893,7 @@ Identifier la bonne cause avant d'agir, c'est exactement le travail qu'on fait e
 
 Si votre chien aboie sur les autres chiens en balade à Paris et que vous ne savez pas trop pourquoi, n'hésitez pas à m'en parler.
 
-Camille, promeneur canin certifié ACACED, secteur Jaurès et Stalingrad à Paris.
+Camille, promeneur canin certifié ACACED. Promenade chien secteur Jaurès et Stalingrad, à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Épillets : le petit danger d'été qui empoisonne la vie des chiens
 Date: 2027-05-10
@@ -1120,7 +1120,7 @@ Un chien senior peut tout à fait rejoindre une balade en meute, avec un rythme 
 
 Si votre chien senior semble avoir besoin d'un rythme différent en balade à Paris, n'hésitez pas à m'en parler.
 
-Camille, promeneur de chien et éducateur canin certifié ACACED, secteur Laumière à Paris.
+Camille, promeneur de chien et éducateur canin certifié ACACED. Promenade chien secteur Laumière, à Paris.
 %%% NOUVEL ARTICLE %%%
 Titre: Chien et rentrée : gérer le retour au rythme après l'été
 Date: 2027-08-30
@@ -1151,7 +1151,7 @@ Une balade en meute régulière, aux mêmes horaires chaque semaine, redonne rap
 
 Si votre chien semble perdu depuis la rentrée, n'hésitez pas à m'en parler.
 
-Camille, dog walker et éducateur canin certifié ACACED, autour des Buttes-Chaumont, dans le 19e.
+Camille, dog walker et éducateur canin certifié ACACED. Promenade chien autour des Buttes-Chaumont, dans le 19e.
 %%% NOUVEL ARTICLE %%%
 Titre: Chien qui a peur du van ou de la voiture : le désensibiliser en douceur
 Date: 2027-09-06
@@ -1182,4 +1182,4 @@ Quand un chien montre une appréhension du transport lors de son intégration, u
 
 Si votre chien a peur de monter en voiture et que vous ne savez pas par où commencer, n'hésitez pas à m'en parler, à Paris ou ailleurs.
 
-Camille, éducateur canin certifié ACACED, promeneur de chien le long du canal de l'Ourcq et à Pantin.
+Camille, éducateur canin certifié ACACED. Promenade chien le long du canal de l'Ourcq et à Pantin.
