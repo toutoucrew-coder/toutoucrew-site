@@ -50,7 +50,7 @@ Je ne compte plus les maîtres qui me racontent ça un peu gênés, comme si c'�
 
 ## Les solutions de fortune que les parisiens du 19e connaissent déjà
 
-Si vous habitez le quartier, vous les avez peut-être déjà croisés, ou vous en faites peut-être partie : le matin, en dehors des périodes de Paris Plage, plusieurs maîtres se retrouvent sur les quais de la Loire et le quai de la Seine, chiens détachés, pour leur laisser quelques minutes de liberté avant d'aller travailler. D'autres montent jusqu'à la "Butte aux Chiens", tout en haut des Buttes-Chaumont, pas loin du Rosa Bonheur, ou se retrouvent devant le poney club de la Villette. Ce sont des rendez-vous informels, jamais officiels. La laisse y est en théorie obligatoire, donc ces regroupements restent interdits, mais ils existent depuis des années, et je comprends parfaitement pourquoi : c'est souvent le seul moment de sociabilisation et de pseudo-liberté que ces chiens ont dans toute leur journée.
+Si vous habitez le quartier, vous les avez peut-être déjà croisés, ou vous en faites peut-être partie : le matin, en dehors des périodes de Paris Plage, plusieurs maîtres se retrouvent sur les quais de la Loire et le quai de la Seine, chiens détachés, pour leur laisser quelques minutes de liberté avant d'aller travailler. D'autres montent jusqu'à la "Butte aux Chiens", tout en haut des Buttes-Chaumont, pas loin du Rosa Bonheur, ou se retrouvent devant le poney club de la Villette, à deux pas de Pantin. Ce sont des rendez-vous informels, jamais officiels. La laisse y est en théorie obligatoire, donc ces regroupements restent interdits, mais ils existent depuis des années, et je comprends parfaitement pourquoi : c'est souvent le seul moment de sociabilisation et de pseudo-liberté que ces chiens ont dans toute leur journée.
 
 Le souci, c'est que ça reste une solution de fortune, pas une vraie réponse. On est toujours en pleine ville, sur quelques centaines de mètres carrés, avec une tolérance qui peut s'arrêter du jour au lendemain selon les riverains ou les patrouilles. Ce n'est ni stable, ni pensé pour ça.
 
@@ -74,7 +74,7 @@ Avant de parler de balade, voici deux ou trois choses simples qui font déjà un
 
 ## La vraie solution : sortir du trottoir
 
-C'est tout l'enjeu d'une balade chien à Paris qui mérite ce nom : pas un aller-retour sur le trottoir, ni quelques minutes volées sur un quai avant le travail, mais une vraie promenade chien en pleine nature, où il peut courir, explorer, croiser d'autres chiens, apprendre à gérer ses émotions face à ce qu'il découvre. C'est ce qu'on fait chez Toutou Crew, chaque jour, en meute, au Bois de Vincennes ou en Forêt de Bondy : deux heures de liberté encadrée par un promeneur de chien professionnel, avec l'éducation positive infusée dans chaque instant plutôt que réservée à des séances à part.
+C'est tout l'enjeu d'une balade chien à Paris qui mérite ce nom : pas un aller-retour sur le trottoir, ni quelques minutes volées sur un quai avant le travail, mais une vraie promenade chien en pleine nature, où il peut courir, explorer, croiser d'autres chiens, apprendre à gérer ses émotions face à ce qu'il découvre. C'est ce qu'on fait chez Toutou Crew, chaque jour, en meute, au Bois de Vincennes ou en Forêt de Bondy : deux heures de liberté encadrée par un promeneur de chien professionnel (promeneur canin, dog walker, peu importe le mot qu'on utilise), avec l'éducation positive infusée dans chaque instant plutôt que réservée à des séances à part.
 
 Et je le vois à chaque fois, presque comme une preuve en direct : les chiens qui reviennent de balade en meute ne sont pas juste fatigués, ils sont apaisés. Le museau plein d'odeurs, la tête vidée de toute cette énergie qu'ils ne savaient pas où mettre. Ce n'est pas la même fatigue qu'après un tour du pâté de maisons ou vingt minutes sur les quais, et honnêtement, une fois qu'on a vu la différence sur son propre chien, on ne revient plus en arrière.
 
@@ -119,7 +119,7 @@ Il y a un autre détail qui change beaucoup de choses, et qu'on oublie souvent :
 
 Je ne vais pas vous mentir : ça ne se règle presque jamais en une balade. Certains chiens progressent en quelques jours, d'autres ont besoin de plusieurs semaines de répétition, surtout s'ils ont pris l'habitude de tirer depuis longtemps. La régularité compte plus que l'intensité : mieux vaut travailler cinq minutes à chaque sortie que de tout miser sur une seule séance.
 
-C'est exactement ce qu'un promeneur de chien professionnel retravaille en balade en meute chez Toutou Crew, lors de chaque promenade chien à Paris, jour après jour plutôt qu'en séance isolée. Un chien qui apprend à marcher sans tirer au milieu d'autres chiens, avec toutes les distractions d'une vraie forêt autour de lui, progresse d'une façon qu'aucune promenade solitaire sur un trottoir ne peut vraiment reproduire. Et une fois que le rappel et la marche en laisse sont acquis, c'est justement ce qui ouvre la porte à de vrais moments de liberté, en toute sécurité.
+C'est exactement ce qu'un promeneur canin professionnel retravaille en balade en meute chez Toutou Crew, lors de chaque promenade chien à Paris, jour après jour plutôt qu'en séance isolée. Un chien qui apprend à marcher sans tirer au milieu d'autres chiens, avec toutes les distractions d'une vraie forêt autour de lui, progresse d'une façon qu'aucune promenade solitaire sur un trottoir ne peut vraiment reproduire. Et une fois que le rappel et la marche en laisse sont acquis, c'est justement ce qui ouvre la porte à de vrais moments de liberté, en toute sécurité.
 
 Si votre chien vous traîne encore à chaque sortie, la première rencontre au bois est offerte, sans engagement, pour voir ensemble où il en est.
 
@@ -136,7 +136,7 @@ Le souci, c'est que ce chiffre seul ne veut pas dire grand-chose. Un prix, sans 
 
 ## Le prix d'un promeneur de chien : une fourchette large, et ce n'est pas un hasard
 
-Le prix d'un promeneur de chien à Paris peut aller du simple au triple selon ce qu'on achète réellement. Une balade solo de vingt minutes réservée sur une application, avec un promeneur occasionnel qui arrondit ses fins de mois, ne coûte pas le même prix qu'une balade en meute de deux heures en forêt, encadrée par un professionnel certifié qui en a fait son métier à temps plein.
+Le prix d'un promeneur de chien à Paris, ou d'un dog walker si vous préférez ce terme, peut aller du simple au triple selon ce qu'on achète réellement. Une balade solo de vingt minutes réservée sur une application, avec un promeneur occasionnel qui arrondit ses fins de mois, ne coûte pas le même prix qu'une balade en meute de deux heures en forêt, encadrée par un professionnel certifié qui en a fait son métier à temps plein.
 
 Ce n'est pas une histoire d'arnaque d'un côté ou de prix gonflé de l'autre. C'est juste que ce sont deux services complètement différents, et je pense sincèrement que c'est ce qui manque le plus souvent dans les comparaisons de prix qu'on voit passer : personne ne compare vraiment ce qui est comparable.
 
@@ -175,7 +175,7 @@ Date: 2026-08-20
 Tag: Toutou Crew
 Description: Comment se déroule vraiment une balade en meute chez Toutou Crew ? Composition du groupe, sécurité, premières sorties : le guide complet.
 
-7h45. Je passe vous chercher, avant de filer vers le Bois de Vincennes ou la Forêt de Bondy après ma tournée dans le 19e. Ça, vous le savez peut-être déjà si vous avez lu la page d'accueil. Ce que vous ne savez probablement pas, ce sont les questions plus concrètes qui reviennent le plus souvent en rencontre au bois. Combien de chiens dans le groupe ? Que se passe-t-il si mon chien ne s'entend pas avec un autre ? Et s'il pleut ? Voici les réponses.
+7h45. Je passe vous chercher, avant de filer vers le Bois de Vincennes ou la Forêt de Bondy après ma tournée dans le 19e et à Pantin. Ça, vous le savez peut-être déjà si vous avez lu la page d'accueil. Ce que vous ne savez probablement pas, ce sont les questions plus concrètes qui reviennent le plus souvent en rencontre au bois. Combien de chiens dans le groupe ? Que se passe-t-il si mon chien ne s'entend pas avec un autre ? Et s'il pleut ? Voici les réponses.
 
 ## Qui compose la meute, et pourquoi ça ne se fait pas au hasard
 
@@ -768,7 +768,7 @@ Date: 2027-03-08
 Tag: Vie pratique
 Description: Certifications, méthode, assurance, solo ou en meute : les questions à poser avant de confier son chien à un promeneur à Paris.
 
-Confier son chien à quelqu'un plusieurs fois par semaine, parfois pendant des années, ça ne devrait jamais se décider seulement sur un prix affiché en ligne. Voici les questions qui, à mon sens, méritent vraiment d'être posées avant de choisir un promeneur de chien à Paris.
+Confier son chien à quelqu'un plusieurs fois par semaine, parfois pendant des années, ça ne devrait jamais se décider seulement sur un prix affiché en ligne. Qu'on l'appelle promeneur de chien, promeneur canin, ou dog walker, ces questions restent les mêmes et méritent vraiment d'être posées avant de faire son choix à Paris.
 
 ## Les certifications, un minimum à vérifier
 
@@ -794,7 +794,7 @@ Un vrai professionnel accepte toujours une rencontre préalable, pour évaluer e
 
 Je suis certifié ACACED, formé en éducation canine et en premiers secours canins, et chaque nouveau chien passe par une rencontre puis une balade d'essai avant toute inscription. Les balades se font en meute, au Bois de Vincennes ou en Forêt de Bondy, avec l'éducation positive infusée dans chaque sortie plutôt que réservée à des séances à part.
 
-Si vous cherchez un promeneur de chien à Paris et que vous voulez voir comment ça se passe avant de vous engager, la première rencontre au bois est offerte, sans engagement.
+Si vous cherchez un promeneur de chien à Paris, dans le 19e ou à Pantin, et que vous voulez voir comment ça se passe avant de vous engager, la première rencontre au bois est offerte, sans engagement.
 
 %%% NOUVEL ARTICLE %%%
 Titre: Pourquoi la laisse est parfois obligatoire en forêt au printemps
@@ -1133,4 +1133,34 @@ En éducation positive, la régularité compte souvent plus que l'intensité d'u
 Une balade en meute régulière, aux mêmes horaires chaque semaine, redonne rapidement un repère stable à un chien déstabilisé par la rentrée. C'est souvent l'un des moments de l'année où les maîtres à Paris reprennent contact après l'été, et ça tombe plutôt bien : c'est exactement le moment où un rythme fixe fait le plus de différence.
 
 Si votre chien semble perdu depuis la rentrée, n'hésitez pas à m'en parler.
+
+%%% NOUVEL ARTICLE %%%
+Titre: Chien qui a peur du van ou de la voiture : le désensibiliser en douceur
+Date: 2027-09-06
+Tag: Comportement
+Description: Tremblements, refus de monter, vomissements : la peur de la voiture se travaille en douceur. Causes, signes, et méthode de désensibilisation en éducation positive.
+
+Un chien qui tremble, refuse de monter, ou vomit dès les premiers mètres, ça n'a rien d'une fatalité. La peur de la voiture se travaille, presque toujours, avec de la patience et de l'éducation positive.
+
+## Pourquoi certains chiens ont peur de la voiture
+
+Le plus souvent, c'est une question d'association. Un chien qui n'associe la voiture qu'au trajet vers le vétérinaire, ou dont le premier vrai trajet a été particulièrement stressant, comme lors d'une adoption, développe rapidement une appréhension. Le mal des transports, réel chez certains chiens surtout jeunes, ajoute une composante physique désagréable qui renforce encore cette peur. Pour certains chiens adoptés à l'étranger, comme beaucoup de chiens venus de Roumanie, la cause est encore plus profonde : un premier trajet de près de 48 heures, enfermés dans une cage, dans le noir, sans jamais comprendre ce qui se passe. Ce vécu marque durablement, et la peur de la voiture qui en découle mérite une patience toute particulière. Le bruit du moteur, les vibrations, le mouvement imprévisible : autant de stimuli qu'un chien n'a jamais eu l'occasion d'apprivoiser progressivement.
+
+## Les signes à repérer
+
+Une hésitation nette à monter, des tremblements, un halètement excessif dès l'installation, une salivation abondante, ou dans les cas plus marqués des vomissements en cours de trajet. Certains chiens refusent carrément d'avancer vers le véhicule, se figent, ou tentent de fuir.
+
+## La méthode en éducation positive
+
+On ne commence jamais par un trajet. La première étape consiste simplement à associer le véhicule à l'arrêt avec quelque chose d'agréable, une friandise, un moment calme, sans jamais démarrer. Une fois cette étape confortable, on ajoute le moteur allumé, toujours à l'arrêt. Puis vient un tout premier trajet extrêmement court, quelques dizaines de mètres, vers quelque chose d'agréable plutôt que vers le vétérinaire. La distance et la durée n'augmentent que progressivement, toujours en restant sous le seuil de stress du chien.
+
+## Les erreurs à éviter
+
+Forcer un chien à monter en le portant ou en le tirant renforce presque toujours l'association négative plutôt que de la défaire. Gronder un chien qui refuse d'avancer ajoute du stress à du stress. Et associer systématiquement la voiture à des événements désagréables, comme uniquement des visites vétérinaires, entretient la peur sur le long terme, même une fois la désensibilisation entamée.
+
+## Ce qu'on fait chez Toutou Crew
+
+Quand un chien montre une appréhension du transport lors de son intégration, un promeneur de chien qui prend le temps nécessaire avant toute balade en meute, en respectant exactement cette même progression, fait toute la différence.
+
+Si votre chien a peur de monter en voiture et que vous ne savez pas par où commencer, n'hésitez pas à m'en parler, à Paris ou ailleurs.
 
