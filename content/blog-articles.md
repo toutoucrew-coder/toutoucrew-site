@@ -1104,3 +1104,33 @@ Un chien senior peut tout à fait rejoindre une balade en meute, avec un rythme 
 
 Si votre chien senior semble avoir besoin d'un rythme différent en balade à Paris, n'hésitez pas à m'en parler.
 
+%%% NOUVEL ARTICLE %%%
+Titre: Chien et rentrée : gérer le retour au rythme après l'été
+Date: 2027-08-30
+Tag: Vie pratique
+Description: Après l'été, le retour au rythme habituel peut déstabiliser un chien. Pourquoi ça arrive, les signes à repérer, et comment réhabituer en douceur.
+
+Fin août, début septembre, je vois toujours la même vague de messages : "Mon chien n'est plus comme avant les vacances." Ce n'est presque jamais un problème de comportement en soi, c'est un problème de transition mal préparée.
+
+## Pourquoi la rentrée est difficile pour un chien
+
+Pendant l'été, la présence humaine est souvent plus constante, le rythme plus souple, parfois même l'environnement différent si le chien est parti en vacances avec vous. La rentrée inverse tout ça d'un coup : retour au bureau, journées seul plus longues, horaires fixes qui reprennent. Un chien ne comprend évidemment pas le concept de rentrée, il vit juste un changement brutal de tout ce qui structurait ses journées récemment.
+
+## Les signes qu'un chien a du mal avec ce changement
+
+Des destructions qui réapparaissent après une pause estivale, des pleurs ou aboiements dès votre départ, un chien qui redevient collant en permanence dès que vous êtes à la maison : ce sont des réactions classiques face à une rupture de rythme trop soudaine, pas nécessairement un vrai trouble installé sur le long terme.
+
+## Comment réhabituer en douceur
+
+Le plus efficace reste d'anticiper : réintroduire progressivement le rythme de la rentrée quelques jours avant qu'elle n'arrive vraiment, plutôt que de basculer d'un coup le premier lundi de septembre. Recréer des périodes de solitude courtes et prévisibles avant le vrai retour au travail aide le chien à se réajuster sans choc brutal. Garder des horaires de sortie aussi réguliers que possible, même approximatifs, aide énormément à recréer un repère stable.
+
+## Ce qui aide vraiment à stabiliser le rythme
+
+En éducation positive, la régularité compte souvent plus que l'intensité d'une seule sortie. Un chien qui retrouve une routine prévisible, même différente de celle de l'été, se réajuste généralement en quelques jours à quelques semaines. C'est le changement soudain et imprévisible qui pose problème, pas le changement en lui même.
+
+## Ce qu'on propose chez Toutou Crew
+
+Une balade en meute régulière, aux mêmes horaires chaque semaine, redonne rapidement un repère stable à un chien déstabilisé par la rentrée. C'est souvent l'un des moments de l'année où les maîtres à Paris reprennent contact après l'été, et ça tombe plutôt bien : c'est exactement le moment où un rythme fixe fait le plus de différence.
+
+Si votre chien semble perdu depuis la rentrée, n'hésitez pas à m'en parler.
+
