@@ -1074,3 +1074,33 @@ En été, les balades en meute sont programmées tôt le matin, avant que la cha
 
 Si vous avez un doute sur la tolérance à la chaleur de votre chien, n'hésitez pas à m'en parler.
 
+%%% NOUVEL ARTICLE %%%
+Titre: Chien senior : comment adapter ses balades avec l'âge
+Date: 2027-08-02
+Tag: Bien-être
+Description: Un chien senior n'a pas besoin de moins sortir, mais de sortir différemment. Ce qui change avec l'âge, et comment ajuster les balades sans priver.
+
+Un chien senior n'a pas besoin de moins sortir. Il a besoin de sortir différemment. C'est une nuance que beaucoup de maîtres ratent, souvent par excès de précaution.
+
+## Ce qui change vraiment avec l'âge
+
+Les articulations s'usent, l'endurance diminue, la récupération après l'effort prend plus de temps qu'avant. L'ouïe et la vue peuvent aussi décliner progressivement, rendant certains environnements plus déstabilisants qu'auparavant. Mais le besoin de stimulation mentale, lui, ne disparaît presque jamais avec l'âge. Un chien senior continue à vouloir sentir, explorer, observer, même s'il court moins vite pour y arriver.
+
+## L'erreur classique : réduire au lieu d'ajuster
+
+Face à un chien qui vieillit, le réflexe le plus courant est de raccourcir drastiquement les sorties, voire de les arrêter presque complètement par précaution. C'est souvent contre productif : moins de mouvement accélère la fonte musculaire, favorise la prise de poids, et prive le chien de stimulation qui l'aide à rester alerte mentalement. Un chien senior qui arrête presque totalement de sortir décline souvent plus vite qu'un chien senior qui continue, à son rythme.
+
+## Comment ajuster sans priver
+
+Multiplier les sorties courtes plutôt que d'en garder une seule longue permet de préserver le mouvement sans épuiser les articulations. Privilégier les terrains plats et stables plutôt que les surfaces glissantes ou très inégales protège les articulations fragilisées. Et surtout, laisser plus de temps pour sentir : un chien senior qui explore lentement une odeur pendant cinq minutes se dépense mentalement presque autant qu'un jeune chien qui court, sans le même impact physique.
+
+## Les signes qu'il faut ralentir davantage
+
+Une boiterie qui apparaît après l'effort, une réticence nouvelle à avancer, un halètement excessif qui persiste longtemps après la sortie, ou une récupération anormalement longue le lendemain : ce sont des signaux à prendre au sérieux, à évoquer avec un vétérinaire plutôt qu'à ignorer. Il n'existe pas de règle fixe universelle selon l'âge, seulement une observation attentive au cas par cas.
+
+## Ce qu'on fait chez Toutou Crew
+
+Un chien senior peut tout à fait rejoindre une balade en meute, avec un rythme adapté et souvent en compagnie de chiens plus calmes du groupe. L'éducation positive garde ici tout son sens : encourager ce que le chien peut encore faire avec plaisir, plutôt que de le forcer à suivre un rythme qui n'est plus le sien.
+
+Si votre chien senior semble avoir besoin d'un rythme différent en balade à Paris, n'hésitez pas à m'en parler.
+
