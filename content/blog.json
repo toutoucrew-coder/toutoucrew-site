@@ -1,6 +1,7 @@
 {
   "site": {
-    "back_link": "&larr; Retour"
+    "back_link": "&larr; Retour",
+    "related_title": "À lire aussi"
   },
   "index": {
     "meta_title": "Blog | Toutou Crew",

@@ -2274,6 +2274,32 @@ p {
 }
 
 /* ---------- Article de blog ---------- */
+.article-related {
+  margin-top: 3.5rem;
+}
+
+.article-related__title {
+  font-size: 1.5rem;
+  margin: 0 0 1.25rem;
+  color: var(--color-dark);
+}
+
+.article-related__grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.25rem;
+}
+
+.article-related .blog-card {
+  padding: 1.35rem;
+}
+
+@media (max-width: 640px) {
+  .article-related__grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 .article-page {
   max-width: 720px;
   margin: 0 auto;

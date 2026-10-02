@@ -222,6 +222,34 @@ def render_cards_html(articles):
     return "\n".join(cards)
 
 
+def pick_related(article, articles, count=2):
+    others = [a for a in articles if a["slug"] != article["slug"]]
+    others.sort(key=lambda a: (
+        a["category"] != article["category"],
+        abs((date.fromisoformat(a["date"]) - date.fromisoformat(article["date"])).days),
+    ))
+    return others[:count]
+
+
+def render_related_html(related):
+    cards = []
+    for a in related:
+        cards.append(
+            "        <a class=\"blog-card\" href=\"{slug}.html\">\n"
+            "          <span class=\"blog-card__tag blog-card__tag--{color}\">{category}</span>\n"
+            "          <h3 class=\"blog-card__title\">{title}</h3>\n"
+            "          <p class=\"blog-card__excerpt\">{excerpt}</p>\n"
+            "        </a>".format(
+                slug=a["slug"],
+                color=a["category_color"],
+                category=escape_html(a["category"]),
+                title=escape_html(a["title"]),
+                excerpt=escape_html(a["excerpt"]),
+            )
+        )
+    return "\n".join(cards)
+
+
 def render_featured_html(article):
     return (
         "    <a class=\"blog-featured hero-intro hero-intro--up\" href=\"blog/{slug}.html\">\n"
@@ -312,6 +340,7 @@ def build_blog(fr_content, content_label, preview=False):
             "category_color": article["category_color"],
             "date_human": date_human(article["date"]),
             "body_html": render_body_html(article["body"]),
+            "related_html": render_related_html(pick_related(article, articles)),
         }
         build_page(
             "blog-article.template.html",
