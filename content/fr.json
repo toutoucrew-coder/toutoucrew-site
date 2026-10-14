@@ -1,13 +1,13 @@
 {
   "meta": {
     "title": "Balade Chien Paris en Meute – Éducation Positive | Toutou Crew",
-    "description": "Balade chien Paris en meute quotidienne, promenade chien éducative dans le Bois de Vincennes et la Forêt de Bondy. Éducation positive, van dédié.",
-    "jsonld_description": "Balade chien Paris en meute quotidienne : promenade chien et éducation positive dans le Bois de Vincennes et la Forêt de Bondy, van dédié.",
+    "description": "Balade chien Paris en meute quotidienne, promenade chien éducative dans le Bois de Vincennes et la Forêt de Bondy. Éducation positive et naturelle, van dédié.",
+    "jsonld_description": "Balade chien Paris en meute quotidienne : promenade chien, éducation positive et naturelle dans le Bois de Vincennes et la Forêt de Bondy, van dédié.",
     "jsonld_area_served": "Paris 19e et environs (Laumière, Buttes-Chaumont, Jaurès, Ourcq, Flandre, Louis-Blanc), Pantin",
     "offer1_name": "Promenade de chien à Paris",
     "offer1_description": "Balade quotidienne en meute pour chien dans le Bois de Vincennes et la Forêt de Bondy.",
-    "offer2_name": "Éducation positive pour chien",
-    "offer2_description": "Éducation canine positive intégrée à chaque balade en meute, à Paris et alentours."
+    "offer2_name": "Éducation positive et naturelle pour chien",
+    "offer2_description": "Éducation canine positive et naturelle intégrée à chaque balade en meute, à Paris et alentours."
   },
 
   "nav": {
@@ -27,10 +27,10 @@
   "hero": {
     "image_alt": "Groupe de promeneurs entourés d'une meute de chiens en forêt",
     "title": "Chaque jour,<br>une nouvelle aventure",
-    "sr_only_text": "Balade chien Paris en meute, promenade chien et éducation positive dans le Bois de Vincennes et la Forêt de Bondy.",
+    "sr_only_text": "Balade chien Paris en meute, promenade chien, éducation positive et naturelle dans le Bois de Vincennes et la Forêt de Bondy.",
     "sticker_alt": "Illustration de deux chiens jouant avec un bâton",
     "eyebrow": "Balades en meute dans le Bois de Vincennes et la Forêt de Bondy.",
-    "text": "Pour le plaisir de lui faire plaisir, et parce qu'un chien qui apprend en s'amusant est un chien épanoui. Éducation positive, promenades en groupe, Paris 19e.",
+    "text": "Pour le plaisir de lui faire plaisir, et parce qu'un chien qui apprend en s'amusant est un chien épanoui. Éducation positive et naturelle, promenades en groupe, Paris 19e.",
     "cta_primary": "Rejoindre le Crew",
     "cta_secondary": "En savoir plus"
   },
@@ -38,7 +38,7 @@
   "concept": {
     "illustration_alt": "Illustration d'un chien parisien tirant pour manger un os de poulet sur le sol",
     "title": "Avoir un chien en ville, c'est que du bonheur. Le sortir comme il le mérite, c'est une autre histoire.",
-    "text": "À Paris, les espaces où un chien peut vraiment se défouler sans laisse sont rares. Pourtant, une vraie dépense physique et mentale, c'est la base pour un chien équilibré. Un chien qui s'ennuie, c'est un chien qui compense. Avec Toutou Crew, vous avez la solution."
+    "text": "À Paris, les espaces où un chien peut vraiment se défouler sans laisse sont rares. Pourtant, un chien a besoin en moyenne de plusieurs heures d'activité par jour : courir, flairer, explorer, mâchouiller, jouer, rencontrer ses congénères. C'est la base pour un chien équilibré. Un chien dont les besoins ne sont pas comblés, c'est un chien qui compense. Avec Toutou Crew, vous avez la solution."
   },
 
   "promenade": {
@@ -61,7 +61,7 @@
     "card2_text": "Ici, on ne mélange pas n'importe qui. Les balades Toutou Crew sont accessibles uniquement aux chiens éduqués, sans troubles du comportement. Chaque nouveau membre passe un test d'entrée en meute pour garantir une bonne socialisation et des groupes équilibrés, sécurisés.",
     "card3_image_alt": "Chien courant en liberté dans une clairière",
     "card3_title": "Un rappel solide, pour une liberté méritée",
-    "card3_text": "Un chien qui rappelle bien, c'est un chien qui peut vivre libre. À chaque balade, on travaille en douceur le rappel à distance et les interactions en meute, en éducation positive, dans un contexte naturel où votre chien ne voit même pas qu'il apprend. Quand il progresse, il gagne en liberté. C'est aussi simple que ça.",
+    "card3_text": "Un chien qui rappelle bien, c'est un chien qui peut vivre libre. À chaque balade, on travaille le rappel en éducation positive, avec des récompenses bien placées et une progression par petites étapes. Et pour le reste, on laisse la nature et la meute faire leur travail : au contact des autres chiens, votre chien apprend aussi par lui-même, sans même s'en rendre compte. Quand il progresse, il gagne en liberté. C'est aussi simple que ça.",
     "cta": "Mon chien peut-il rejoindre le Crew ?"
   },
 
@@ -82,7 +82,7 @@
     "step3_time_start": "09:30",
     "step3_time_end": "11:30",
     "step3_title": "2h de liberté.",
-    "step3_text": "Course, exploration, rencontres, apprentissages naturels. Les membres du Toutou Crew apprennent à gérer leurs émotions, se contrôler face aux distractions, à partager des ressources et à écouter les ordres, le tout dans une éducation positive en continu.",
+    "step3_text": "Course, exploration, rencontres. Au contact de la meute, les membres du Toutou Crew apprennent par eux-mêmes à gérer leurs émotions, à se contrôler face aux distractions et à partager les ressources : c'est l'éducation naturelle. Le rappel et les ordres, eux, se travaillent en éducation positive. Les deux ensemble, c'est ce qui donne un chien équilibré.",
     "step4_time_start": "12:00",
     "step4_time_end": "14:00",
     "step4_title": "Retour à la maison + rapport photo.",
@@ -104,9 +104,9 @@
     "step1_requirements_html": "Côté administratif, une seule règle : votre chien doit être à jour de son <strong>carnet de vaccination</strong> (vaccin contre la toux du chenil compris) et de son <strong>traitement antiparasitaire</strong>, interne et externe. La sécurité de toute la meute en dépend.",
     "step1_point1_title": "Sociabilité avec les congénères.",
     "step1_point1_text": "On observe comment votre chien entre en contact avec ses futurs compagnons de balade.",
-    "step1_point2_title": "Réactivité.",
+    "step1_point2_title": "Rappel.",
     "step1_point2_text": "Un rappel qui fonctionne, même imparfait, est indispensable avant de passer en liberté.",
-    "step1_point3_title": "Gestion des émotions.",
+    "step1_point3_title": "Respect des autres chiens.",
     "step1_point3_text": "Un chien harceleur ou trop envahissant peut fragiliser toute la dynamique du groupe.",
     "step1_point4_title": "Montée dans le van.",
     "step1_point4_text": "Une première désensibilisation en douceur, pour que le jour J se passe sans stress.",
@@ -119,7 +119,7 @@
     "step2_point1_title": "Comportement en van.",
     "step2_point1_text": "Est-il calme et serein pendant le trajet ?",
     "step2_point2_title": "Cohésion avec la meute.",
-    "step2_point2_text": "Suit-il le groupe naturellement, ou cherche-t-il à s'isoler ou à dominer ?",
+    "step2_point2_text": "Suit-il le groupe naturellement, ou cherche-t-il à s'isoler ou à s'imposer aux autres ?",
     "step2_image_alt": "Deux chiens du Crew en balade d'essai",
 
     "cta": "Demander une rencontre"
@@ -145,14 +145,14 @@
     "title_rest": "c'est aussi l'histoire d'une reconversion.",
     "role": "Camille, promeneur &amp; éducateur canin",
     "text1": "Pendant 13 ans, j'ai travaillé comme designer produit dans le conseil. J'aidais des entreprises à créer des sites, des applications mobiles, des expériences numériques. J'aimais ce métier et le contact humain. Jusqu'au moment où ce métier a commencé à changer, et où je me suis rendu compte que la version qu'il devenait n'était plus celle que j'avais choisie.",
-    "text2": "En juin 2025, après 5 ans de réflexion, j'ai adopté Maya. Un petit chien croisé berger/teckel sauvée de la vie errante en Roumanie. À son arrivée, elle avait peur de tout. Les humains, les autres chiens, les bruits de la ville. J'ai passé des mois à apprendre à la lire, à la rassurer, à lui construire une confiance qu'elle n'avait jamais eu. En éducation positive, à son rythme, en milieu urbain. Elle me l'a rendu mille fois. C'est elle qui m'a convaincu que ma prochaine vie serait plus proche du vivant que d'un écran. Toutou Crew, c'est la suite logique de cette histoire.",
+    "text2": "En juin 2025, après 5 ans de réflexion, j'ai adopté Maya. Un petit chien croisé berger/teckel sauvée de la vie errante en Roumanie. À son arrivée, elle avait peur de tout. Les humains, les autres chiens, les bruits de la ville. J'ai passé des mois à apprendre à la lire, à la rassurer, à lui construire une confiance qu'elle n'avait jamais eu. En éducation positive et naturelle, à son rythme, en milieu urbain. Elle me l'a rendu mille fois. C'est elle qui m'a convaincu que ma prochaine vie serait plus proche du vivant que d'un écran. Toutou Crew, c'est la suite logique de cette histoire.",
     "text3": "En tant que promeneur de chien à Paris, je suis basé à Laumière, dans le 19e. Je connais le quartier, ses chiens, ses contraintes et je sais exactement ce qui manque aux dog parents parisiens : un endroit où leur chien peut vraiment se défouler, en sécurité, avec des congénères bien dans leur tête.",
     "text4": "Je travaille en groupes réduits, avec des chiens soigneusement sélectionnés. Pas de volume, pas de compromis. Chaque chien que j'emmène est un chien dont je me sens pleinement responsable, comme je l'ai été pour Maya dès le premier jour.",
     "photo1_alt": "Camille, fondateur de Toutou Crew, en balade avec son chien roumain Maya",
     "photo2_alt": "Camille en balade à vélo avec son chien Maya dans son sac à dos",
     "certifications_title": "Formations &amp; certifications",
     "cert1_html": "<strong>ACACED</strong> – Attestation de Connaissances pour les Animaux de Compagnie d'Espèces Domestiques.",
-    "cert2_html": "<strong>Éducateur canin à Paris</strong> – comportement et éducation positive.",
+    "cert2_html": "<strong>Éducateur canin à Paris</strong> – formé chez Educhien : éthologie, comportement, éducation positive et naturelle.",
     "cert3_html": "<strong>Premiers secours canins</strong> – savoir intervenir en cas d'urgence.",
     "walk_image_alt": "Camille en balade avec plusieurs chiens en laisse"
   },
