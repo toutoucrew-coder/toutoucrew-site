@@ -31,6 +31,7 @@ PAGES = [
     ("index.template.html", "index.html"),
     ("cgv.template.html", "cgv.html"),
     ("politique-confidentialite.template.html", "politique-confidentialite.html"),
+    ("carte.template.html", "carte.html"),
 ]
 
 TOKEN_RE = re.compile(r"\{\{([a-zA-Z0-9_.]+)\}\}")

@@ -274,5 +274,24 @@
 
     "s9_title": "9. Contact",
     "s9_text_html": "Pour toute question relative à cette politique de confidentialité : <a href=\"mailto:toutoucrew@gmail.com\">toutoucrew@gmail.com</a>."
+  },
+
+  "carte": {
+    "meta_title": "Toutou Crew – Balades éducatives en meute à Paris",
+    "meta_description": "Tous les liens Toutou Crew : site, Instagram, WhatsApp et fiche contact.",
+    "logo_alt": "Logo Toutou Crew",
+    "tagline": "Balades éducatives en meute",
+    "subline_html": "Au départ de Laumière / Buttes-Chaumont,<br>direction le Bois de Vincennes<br>&amp; la Forêt de Bondy",
+    "host_html": "<strong>Camille</strong><br>Promeneur &amp; éducateur canin comportementaliste<br><span class=\"carte__host-detail\">Formé chez Educhien<br>Éducation positive et naturelle</span>",
+    "host_img_alt": "Illustration de Camille",
+    "host_maya_alt": "Illustration de Maya, la chienne de Camille",
+    "btn_whatsapp_title": "Discutons sur WhatsApp",
+    "btn_whatsapp_sub": "Une question ? Une balade d'essai ?",
+    "btn_site_title": "Découvrir les balades Toutou Crew",
+    "btn_site_sub": "Le déroulé d'une balade et les tarifs",
+    "btn_instagram_title": "Suivre nos aventures quotidiennes",
+    "btn_instagram_sub": "Les coulisses de la meute sur Instagram",
+    "btn_contact_title": "Enregistrer le contact",
+    "btn_contact_sub": "Ajouter Toutou Crew dans mon téléphone"
   }
 }
